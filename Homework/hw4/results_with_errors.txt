@@ -1,0 +1,406 @@
+dartmouth preference list:
+  1. mary_kramer
+  2. harold_chen
+  3. daniel_myers
+  4. bob_evans
+  5. paul_weston
+  6. sally_jones
+  7. ryan_roberts
+  8. elizabeth_kramer
+  9. paul_lee
+ 10. elizabeth_weston
+ 11. larry_roberts
+ 12. alice_grey
+ 13. valerie_davis
+
+georgia_tech preference list:
+  1. alice_grey
+  2. larry_roberts
+  3. ryan_roberts
+  4. carol_evans
+  5. ryan_evans
+  6. valerie_davis
+  7. harold_chen
+  8. carol_smith
+
+university_of_pennsylvania preference list:
+  1. alice_grey
+  2. harold_chen
+  3. paul_weston
+  4. larry_brewer
+  5. paul_trotter
+  6. ryan_evans
+  7. paul_jones
+  8. elizabeth_kramer
+  9. mary_kramer
+ 10. daniel_myers
+ 11. bob_evans
+ 12. carol_evans
+
+university_of_pennsylvania preference list:
+  1. alice_grey
+  2. harold_chen
+  3. paul_weston
+  4. larry_brewer
+  5. paul_trotter
+  6. ryan_evans
+  7. paul_jones
+  8. elizabeth_kramer
+  9. mary_kramer
+ 10. daniel_myers
+ 11. bob_evans
+ 12. carol_evans
+
+university_of_washington preference list:
+  1. paul_jones
+  2. sally_jones
+  3. harold_chen
+  4. carol_evans
+  5. carol_smith
+  6. elizabeth_weston
+  7. larry_brewer
+  8. ryan_evans
+  9. daniel_myers
+ 10. alice_grey
+ 11. ryan_roberts
+ 12. mary_kramer
+ 13. paul_trotter
+
+harvard preference list:
+  1. paul_lee
+  2. larry_brewer
+  3. alice_grey
+  4. carol_evans
+  5. bob_evans
+  6. ryan_evans
+  7. paul_jones
+  8. mary_kramer
+  9. daniel_myers
+ 10. paul_weston
+ 11. paul_trotter
+ 12. elizabeth_weston
+ 13. valerie_davis
+ 14. larry_roberts
+ 15. harold_chen
+
+ryan_roberts preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+elizabeth_weston preference list:
+  1. university_of_pennsylvania
+  2. georgia_tech
+  3. dartmouth
+  4. caltech
+  5. perdue
+  6. harvard
+
+bob_evans preference list:
+  1. university_of_pennsylvania
+  2. caltech
+  3. dartmouth
+  4. perdue
+  5. university_of_washington
+  6. harvard
+
+paul_trotter preference list:
+  1. perdue
+  2. university_of_washington
+  3. caltech
+  4. harvard
+  5. dartmouth
+  6. georgia_tech
+  7. university_of_pennsylvania
+
+carol_evans preference list:
+  1. university_of_pennsylvania
+  2. harvard
+  3. university_of_washington
+  4. dartmouth
+  5. perdue
+
+larry_roberts preference list:
+  1. university_of_washington
+  2. georgia_tech
+  3. university_of_pennsylvania
+
+paul_weston preference list:
+  1. university_of_pennsylvania
+  2. university_of_washington
+  3. dartmouth
+  4. harvard
+
+carol_evans preference list:
+  1. university_of_pennsylvania
+  2. harvard
+  3. university_of_washington
+  4. dartmouth
+  5. perdue
+
+sally_jones preference list:
+  1. caltech
+  2. harvard
+  3. dartmouth
+  4. perdue
+  5. university_of_washington
+  6. georgia_tech
+
+carol_smith preference list:
+  1. harvard
+  2. university_of_washington
+  3. university_of_pennsylvania
+  4. georgia_tech
+
+elizabeth_kramer preference list:
+  1. perdue
+  2. university_of_pennsylvania
+  3. caltech
+  4. dartmouth
+
+daniel_myers preference list:
+  1. harvard
+  2. dartmouth
+  3. university_of_pennsylvania
+  4. university_of_washington
+  5. georgia_tech
+  6. caltech
+
+alice_grey preference list:
+  1. university_of_washington
+  2. harvard
+  3. university_of_pennsylvania
+  4. perdue
+  5. dartmouth
+  6. caltech
+
+ryan_evans preference list:
+  1. perdue
+  2. caltech
+  3. university_of_pennsylvania
+  4. university_of_washington
+  5. harvard
+
+paul_jones preference list:
+  1. university_of_pennsylvania
+  2. university_of_washington
+  3. caltech
+
+valerie_davis preference list:
+  1. dartmouth
+  2. georgia_tech
+  3. university_of_pennsylvania
+  4. perdue
+  5. university_of_washington
+  6. caltech
+  7. harvard
+
+harold_chen preference list:
+  1. university_of_washington
+  2. dartmouth
+  3. harvard
+
+larry_brewer preference list:
+  1. dartmouth
+  2. university_of_washington
+  3. georgia_tech
+  4. university_of_pennsylvania
+  5. caltech
+
+---- ROUND 1 ----
+dartmouth makes an offer to mary_kramer
+georgia_tech makes an offer to alice_grey
+  alice_grey declines offer from georgia_tech
+university_of_pennsylvania makes an offer to alice_grey
+  alice_grey tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to paul_jones
+  paul_jones tentatively accepts offer from university_of_washington
+harvard makes an offer to paul_lee
+---- ROUND 2 ----
+dartmouth makes an offer to harold_chen
+  harold_chen tentatively accepts offer from dartmouth
+georgia_tech makes an offer to larry_roberts
+  larry_roberts tentatively accepts offer from georgia_tech
+university_of_pennsylvania makes an offer to harold_chen
+  harold_chen declines offer from university_of_pennsylvania
+university_of_washington makes an offer to sally_jones
+  sally_jones tentatively accepts offer from university_of_washington
+harvard makes an offer to larry_brewer
+  larry_brewer declines offer from harvard
+---- ROUND 3 ----
+dartmouth makes an offer to daniel_myers
+  daniel_myers tentatively accepts offer from dartmouth
+georgia_tech makes an offer to ryan_roberts
+  ryan_roberts tentatively accepts offer from georgia_tech
+university_of_pennsylvania makes an offer to paul_weston
+  paul_weston tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to harold_chen
+  harold_chen withdraws tentative acceptance of offer from dartmouth
+  harold_chen tentatively accepts offer from university_of_washington
+harvard makes an offer to alice_grey
+  alice_grey withdraws tentative acceptance of offer from university_of_pennsylvania
+  alice_grey tentatively accepts offer from harvard
+---- ROUND 4 ----
+dartmouth makes an offer to bob_evans
+  bob_evans tentatively accepts offer from dartmouth
+georgia_tech makes an offer to carol_evans
+  carol_evans declines offer from georgia_tech
+university_of_pennsylvania makes an offer to larry_brewer
+  larry_brewer tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to carol_evans
+  carol_evans tentatively accepts offer from university_of_washington
+harvard makes an offer to carol_evans
+  carol_evans withdraws tentative acceptance of offer from university_of_washington
+  carol_evans tentatively accepts offer from harvard
+---- ROUND 5 ----
+dartmouth makes an offer to paul_weston
+  paul_weston declines offer from dartmouth
+georgia_tech makes an offer to ryan_evans
+  ryan_evans declines offer from georgia_tech
+university_of_pennsylvania makes an offer to paul_trotter
+  paul_trotter tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to carol_smith
+  carol_smith tentatively accepts offer from university_of_washington
+harvard makes an offer to bob_evans
+  bob_evans declines offer from harvard
+---- ROUND 6 ----
+dartmouth makes an offer to sally_jones
+  sally_jones withdraws tentative acceptance of offer from university_of_washington
+  sally_jones tentatively accepts offer from dartmouth
+georgia_tech makes an offer to valerie_davis
+  valerie_davis tentatively accepts offer from georgia_tech
+university_of_pennsylvania makes an offer to ryan_evans
+  ryan_evans tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to elizabeth_weston
+  elizabeth_weston declines offer from university_of_washington
+harvard makes an offer to ryan_evans
+  ryan_evans declines offer from harvard
+---- ROUND 7 ----
+dartmouth makes an offer to ryan_roberts
+  ryan_roberts declines offer from dartmouth
+georgia_tech makes an offer to harold_chen
+  harold_chen declines offer from georgia_tech
+university_of_pennsylvania makes an offer to paul_jones
+  paul_jones withdraws tentative acceptance of offer from university_of_washington
+  paul_jones tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to larry_brewer
+  larry_brewer withdraws tentative acceptance of offer from university_of_pennsylvania
+  larry_brewer tentatively accepts offer from university_of_washington
+harvard makes an offer to paul_jones
+  paul_jones declines offer from harvard
+---- ROUND 8 ----
+dartmouth makes an offer to elizabeth_kramer
+  elizabeth_kramer tentatively accepts offer from dartmouth
+georgia_tech makes an offer to carol_smith
+  carol_smith declines offer from georgia_tech
+university_of_pennsylvania makes an offer to elizabeth_kramer
+  elizabeth_kramer withdraws tentative acceptance of offer from dartmouth
+  elizabeth_kramer tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to ryan_evans
+  ryan_evans declines offer from university_of_washington
+harvard makes an offer to mary_kramer
+---- ROUND 9 ----
+dartmouth makes an offer to paul_lee
+university_of_pennsylvania makes an offer to mary_kramer
+university_of_washington makes an offer to daniel_myers
+  daniel_myers declines offer from university_of_washington
+harvard makes an offer to daniel_myers
+  daniel_myers withdraws tentative acceptance of offer from dartmouth
+  daniel_myers tentatively accepts offer from harvard
+---- ROUND 10 ----
+dartmouth makes an offer to elizabeth_weston
+  elizabeth_weston tentatively accepts offer from dartmouth
+university_of_pennsylvania makes an offer to daniel_myers
+  daniel_myers declines offer from university_of_pennsylvania
+university_of_washington makes an offer to alice_grey
+  alice_grey withdraws tentative acceptance of offer from harvard
+  alice_grey tentatively accepts offer from university_of_washington
+harvard makes an offer to paul_weston
+  paul_weston declines offer from harvard
+---- ROUND 11 ----
+dartmouth makes an offer to larry_roberts
+  larry_roberts declines offer from dartmouth
+university_of_pennsylvania makes an offer to bob_evans
+  bob_evans withdraws tentative acceptance of offer from dartmouth
+  bob_evans tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to ryan_roberts
+  ryan_roberts declines offer from university_of_washington
+harvard makes an offer to paul_trotter
+  paul_trotter withdraws tentative acceptance of offer from university_of_pennsylvania
+  paul_trotter tentatively accepts offer from harvard
+---- ROUND 12 ----
+dartmouth makes an offer to alice_grey
+  alice_grey declines offer from dartmouth
+university_of_pennsylvania makes an offer to carol_evans
+  carol_evans withdraws tentative acceptance of offer from harvard
+  carol_evans tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to mary_kramer
+harvard makes an offer to elizabeth_weston
+  elizabeth_weston declines offer from harvard
+---- ROUND 13 ----
+dartmouth makes an offer to valerie_davis
+  valerie_davis withdraws tentative acceptance of offer from georgia_tech
+  valerie_davis tentatively accepts offer from dartmouth
+university_of_washington makes an offer to paul_trotter
+  paul_trotter withdraws tentative acceptance of offer from harvard
+  paul_trotter tentatively accepts offer from university_of_washington
+harvard makes an offer to valerie_davis
+  valerie_davis declines offer from harvard
+---- ROUND 14 ----
+harvard makes an offer to larry_roberts
+  larry_roberts declines offer from harvard
+---- ROUND 15 ----
+harvard makes an offer to harold_chen
+  harold_chen declines offer from harvard
+---- ROUND 16 ----
+no offers_made this round
+
+student(s) who will be attending dartmouth:
+  elizabeth_weston
+  sally_jones
+  valerie_davis
+  [6 remaining slot(s) in enrollment]
+student(s) who will be attending georgia_tech:
+  larry_roberts
+  ryan_roberts
+  [6 remaining slot(s) in enrollment]
+student(s) who will be attending harvard:
+  daniel_myers
+  [5 remaining slot(s) in enrollment]
+student(s) who will be attending university_of_pennsylvania:
+  bob_evans
+  carol_evans
+  elizabeth_kramer
+  paul_jones
+  paul_weston
+  ryan_evans
+  [4 remaining slot(s) in enrollment]
+student(s) who will be attending university_of_washington:
+  alice_grey
+  carol_smith
+  harold_chen
+  larry_brewer
+  paul_trotter
+  [3 remaining slot(s) in enrollment]
+
+alice_grey will be attending university_of_washington
+bob_evans will be attending university_of_pennsylvania
+carol_evans will be attending university_of_pennsylvania
+carol_smith will be attending university_of_washington
+daniel_myers will be attending harvard
+elizabeth_kramer will be attending university_of_pennsylvania
+elizabeth_weston will be attending dartmouth
+harold_chen will be attending university_of_washington
+larry_brewer will be attending university_of_washington
+larry_roberts will be attending georgia_tech
+paul_jones will be attending university_of_pennsylvania
+paul_trotter will be attending university_of_washington
+paul_weston will be attending university_of_pennsylvania
+ryan_evans will be attending university_of_pennsylvania
+ryan_roberts will be attending georgia_tech
+sally_jones will be attending dartmouth
+valerie_davis will be attending dartmouth
+

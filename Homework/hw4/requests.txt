@@ -1,0 +1,42 @@
+add_school university_of_michigan 3 3
+erin_jones
+john_smith
+dave_roberts
+
+insert_student_into_school_preference_list university_of_michigan joe_miller dave_roberts
+
+print_school_preferences university_of_michigan
+
+add_student erin_jones 3
+duke_university
+university_of_michigan
+university_of_california_san_francisco
+
+remove_school_from_student_preference_list erin_jones university_of_california_san_francisco
+
+print_student_preferences erin_jones
+
+add_school duke_university 1 3
+john_smith
+erin_jones
+dave_roberts
+
+add_school university_of_california_san_francisco 2 3
+erin_jones
+joe_miller
+john_smith
+
+add_student john_smith 1
+university_of_michigan
+
+add_student dave_roberts 3
+duke_university
+university_of_michigan
+university_of_california_san_francisco
+
+add_student joe_miller 1
+duke_university
+
+perform_matching
+print_school_enrollments
+print_student_decisions

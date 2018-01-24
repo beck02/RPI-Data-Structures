@@ -1,0 +1,116 @@
+added 3 copies of fellowship_of_the_ring
+added 3 copies of where_the_red_fern_grows
+added 3 copies of emma
+added 2 copies of les_miserables
+added 1 copy of hunger_games
+library info for: hunger_games
+  1 copy available
+melissa checked out les_miserables
+melissa returned 1 item
+tammy has no items checked out
+tammy checked out emma
+library info for: emma
+  2 copies available
+  1 copy checked out by:
+    tammy
+ulysses checked out les_miserables
+ulysses checked out where_the_red_fern_grows
+tammy checked out hunger_games
+tammy returned 2 items
+melissa has no items checked out
+olive checked out hunger_games
+olive has this item checked out:
+  hunger_games
+ulysses has these items checked out:
+  les_miserables
+  where_the_red_fern_grows
+tammy checked out where_the_red_fern_grows
+olive already has hunger_games
+olive returned 1 item
+bernard checked out hunger_games
+library info for: emma
+  3 copies available
+melissa checked out les_miserables
+library info for: where_the_red_fern_grows
+  1 copy available
+  2 copies checked out by:
+    ulysses
+    tammy
+library info for: emma
+  3 copies available
+tammy checked out emma
+olive checked out emma
+melissa checked out where_the_red_fern_grows
+bernard has this item checked out:
+  hunger_games
+melissa has these items checked out:
+  les_miserables
+  where_the_red_fern_grows
+olive has this item checked out:
+  emma
+tammy has these items checked out:
+  where_the_red_fern_grows
+  emma
+ulysses has these items checked out:
+  les_miserables
+  where_the_red_fern_grows
+ulysses checked out emma
+melissa returned 2 items
+olive already has emma
+no copies of hunger_games available
+ulysses already has where_the_red_fern_grows
+library info for: emma
+  3 copies checked out by:
+    tammy
+    olive
+    ulysses
+tammy checked out fellowship_of_the_ring
+melissa checked out fellowship_of_the_ring
+library info for: hunger_games
+  1 copy checked out by:
+    bernard
+olive returned 1 item
+no copies of hunger_games available
+bernard has this item checked out:
+  hunger_games
+melissa has this item checked out:
+  fellowship_of_the_ring
+tammy has these items checked out:
+  where_the_red_fern_grows
+  emma
+  fellowship_of_the_ring
+ulysses has these items checked out:
+  les_miserables
+  where_the_red_fern_grows
+  emma
+library info for: les_miserables
+  1 copy available
+  1 copy checked out by:
+    ulysses
+bernard returned 1 item
+melissa checked out emma
+bernard checked out hunger_games
+tammy already has fellowship_of_the_ring
+melissa already has fellowship_of_the_ring
+bernard checked out fellowship_of_the_ring
+melissa checked out les_miserables
+no copies of fellowship_of_the_ring available
+library info for: hunger_games
+  1 copy checked out by:
+    bernard
+bernard already has hunger_games
+bernard has these items checked out:
+  hunger_games
+  fellowship_of_the_ring
+melissa has these items checked out:
+  fellowship_of_the_ring
+  emma
+  les_miserables
+tammy has these items checked out:
+  where_the_red_fern_grows
+  emma
+  fellowship_of_the_ring
+ulysses has these items checked out:
+  les_miserables
+  where_the_red_fern_grows
+  emma

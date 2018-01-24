@@ -1,0 +1,27 @@
+9 Animal(s):  catherine larry nathan olive polly ronald tony wayne yogi
+1 Bat(s):  wayne
+2 Bird(s):  catherine polly
+1 Bear(s):  yogi
+1 Cardinal(s):  catherine
+2 Ectothermic(s):  nathan olive
+7 Endothermic(s):  catherine larry polly ronald tony wayne yogi
+1 Fish(s):  nathan
+5 LaysEggs(s):  catherine larry nathan olive polly
+5 Mammal(s):  larry ronald tony wayne yogi
+11 Organism(s):  catherine larry nathan olive polly ronald sherman tony vera wayne yogi
+1 Penguin(s):  polly
+2 Plant(s):  sherman vera
+1 Platypus(s):  larry
+1 Redwood(s):  sherman
+1 Reptile(s):  olive
+1 Rhinoceros(s):  ronald
+1 Trout(s):  nathan
+1 Tiger(s):  tony
+1 Tortoise(s):  olive
+1 VenusFlyTrap(s):  vera
+6 Carnivore(s):  larry nathan polly tony vera wayne
+3 Herbivore(s):  catherine olive ronald
+1 Omnivore(s):  yogi
+2 Organism(s) live(s) in Air:  catherine wayne
+9 Organism(s) live(s) on Land:  larry olive polly ronald sherman tony vera wayne yogi
+3 Organism(s) live(s) in Water:  larry nathan polly

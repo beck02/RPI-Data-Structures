@@ -1,0 +1,725 @@
+add_school yale 10 22
+kim_myers
+carol_adams
+bob_chen
+ryan_brewer
+elizabeth_peters
+wayne_ford
+sally_norton
+frank_grey
+elizabeth_kramer
+frank_jones
+valerie_smith
+kim_weston
+john_lee
+daniel_kramer
+ryan_jones
+georgiana_evans
+elizabeth_myers
+paul_lee
+bob_davis
+john_chen
+daniel_grey
+larry_chen
+
+add_school rensselaer 7 20
+alice_smith
+elizabeth_myers
+elizabeth_evans
+georgiana_evans
+carol_adams
+kim_lee
+kim_myers
+bob_davis
+isabelle_smith
+carol_trotter
+mary_trotter
+daniel_harrison
+ryan_peters
+georgiana_davis
+alice_evans
+bob_chen
+bob_kramer
+frank_jones
+kim_weston
+elizabeth_ford
+
+add_school university_of_illinois 7 28
+mary_harrison
+paul_lee
+elizabeth_kramer
+isabelle_smith
+mary_trotter
+elizabeth_chen
+kim_roberts
+nancy_kramer
+kim_weston
+alice_evans
+kim_lee
+frank_harrison
+wayne_ford
+wayne_evans
+sally_norton
+bob_chen
+georgiana_davis
+kim_myers
+georgiana_evans
+nancy_davis
+carol_trotter
+elizabeth_evans
+valerie_kramer
+john_lee
+daniel_grey
+john_jones
+elizabeth_myers
+john_chen
+
+add_school rice 6 23
+alice_evans
+carol_trotter
+daniel_harrison
+alice_smith
+elizabeth_peters
+kim_myers
+carol_adams
+sally_norton
+valerie_kramer
+wayne_ford
+john_lee
+sally_evans
+elizabeth_chen
+mary_adams
+kim_lee
+wayne_evans
+john_chen
+elizabeth_evans
+daniel_kramer
+kim_weston
+bob_davis
+bob_kramer
+ryan_peters
+
+add_school university_of_wisconsin 6 30
+elizabeth_peters
+wayne_peters
+bob_kramer
+georgiana_davis
+bob_chen
+ryan_peters
+john_jones
+elizabeth_ford
+carol_adams
+nancy_davis
+harold_peters
+daniel_kramer
+mary_trotter
+valerie_kramer
+elizabeth_myers
+georgiana_brewer
+isabelle_weston
+georgiana_evans
+frank_grey
+elizabeth_chen
+bob_davis
+carol_weston
+elizabeth_evans
+wayne_ford
+mary_adams
+daniel_harrison
+kim_myers
+frank_jones
+larry_chen
+ryan_jones
+
+add_school harvard 7 25
+sally_evans
+mary_trotter
+kim_roberts
+valerie_smith
+ryan_brewer
+nancy_kramer
+harold_peters
+frank_harrison
+valerie_kramer
+wayne_ford
+isabelle_weston
+frank_jones
+georgiana_brewer
+nancy_davis
+alice_evans
+john_lee
+bob_chen
+john_chen
+paul_lee
+elizabeth_peters
+kim_lee
+bob_davis
+ryan_peters
+carol_trotter
+kim_myers
+
+add_school dartmouth 7 28
+wayne_ford
+kim_lee
+carol_trotter
+kim_roberts
+kim_weston
+valerie_kramer
+bob_chen
+bob_kramer
+john_chen
+daniel_grey
+elizabeth_ford
+elizabeth_kramer
+elizabeth_evans
+frank_jones
+daniel_kramer
+wayne_peters
+john_lee
+isabelle_weston
+carol_adams
+georgiana_davis
+valerie_smith
+elizabeth_peters
+georgiana_brewer
+kim_myers
+elizabeth_chen
+elizabeth_myers
+alice_evans
+mary_adams
+
+add_school princeton 10 18
+wayne_ford
+ryan_jones
+daniel_grey
+elizabeth_peters
+alice_smith
+sally_evans
+frank_harrison
+frank_jones
+ryan_peters
+harold_peters
+frank_grey
+georgiana_davis
+paul_lee
+georgiana_evans
+mary_trotter
+larry_chen
+carol_adams
+kim_myers
+
+add_school university_of_colorado 10 27
+nancy_kramer
+daniel_grey
+john_chen
+carol_adams
+georgiana_evans
+georgiana_davis
+carol_trotter
+alice_evans
+isabelle_smith
+harold_peters
+kim_myers
+ryan_peters
+valerie_smith
+kim_lee
+georgiana_brewer
+larry_chen
+mary_adams
+wayne_evans
+daniel_kramer
+frank_jones
+elizabeth_kramer
+elizabeth_evans
+frank_harrison
+daniel_harrison
+kim_roberts
+paul_lee
+isabelle_weston
+
+add_school perdue 10 17
+nancy_davis
+elizabeth_evans
+mary_harrison
+carol_trotter
+john_jones
+daniel_grey
+sally_norton
+sally_evans
+kim_roberts
+ryan_peters
+georgiana_evans
+elizabeth_ford
+mary_adams
+larry_chen
+kim_lee
+john_lee
+mary_trotter
+
+add_student harold_peters 8
+university_of_colorado
+perdue
+rice
+university_of_illinois
+harvard
+rensselaer
+princeton
+university_of_wisconsin
+
+add_student nancy_davis 5
+rice
+princeton
+university_of_wisconsin
+dartmouth
+rensselaer
+
+add_student isabelle_weston 5
+perdue
+harvard
+university_of_illinois
+yale
+university_of_wisconsin
+
+add_student carol_trotter 3
+dartmouth
+harvard
+princeton
+
+add_student alice_smith 8
+rensselaer
+university_of_wisconsin
+university_of_colorado
+perdue
+princeton
+university_of_illinois
+rice
+yale
+
+add_student mary_harrison 3
+rensselaer
+university_of_wisconsin
+yale
+
+add_student elizabeth_ford 4
+rensselaer
+rice
+dartmouth
+perdue
+
+add_student elizabeth_chen 7
+dartmouth
+university_of_wisconsin
+university_of_illinois
+university_of_colorado
+rice
+harvard
+yale
+
+add_student frank_harrison 7
+university_of_wisconsin
+princeton
+yale
+dartmouth
+perdue
+rensselaer
+university_of_illinois
+
+add_student kim_myers 6
+dartmouth
+university_of_illinois
+university_of_wisconsin
+rensselaer
+harvard
+perdue
+
+add_student mary_trotter 7
+university_of_illinois
+dartmouth
+rensselaer
+rice
+university_of_wisconsin
+princeton
+university_of_colorado
+
+add_student georgiana_evans 6
+harvard
+rice
+perdue
+university_of_illinois
+yale
+university_of_colorado
+
+add_student bob_davis 4
+perdue
+university_of_wisconsin
+university_of_illinois
+dartmouth
+
+add_student kim_weston 4
+perdue
+university_of_illinois
+university_of_wisconsin
+yale
+
+add_student elizabeth_myers 7
+yale
+university_of_illinois
+university_of_colorado
+harvard
+perdue
+rice
+dartmouth
+
+add_student carol_weston 6
+harvard
+rensselaer
+dartmouth
+princeton
+university_of_illinois
+perdue
+
+add_student alice_evans 7
+princeton
+university_of_wisconsin
+harvard
+yale
+university_of_illinois
+rensselaer
+rice
+
+add_student larry_chen 5
+rensselaer
+yale
+princeton
+university_of_wisconsin
+perdue
+
+add_student wayne_peters 8
+perdue
+university_of_illinois
+harvard
+dartmouth
+rensselaer
+yale
+princeton
+university_of_colorado
+
+add_student ryan_peters 8
+dartmouth
+rice
+perdue
+university_of_colorado
+princeton
+harvard
+university_of_illinois
+university_of_wisconsin
+
+add_student kim_roberts 8
+yale
+princeton
+university_of_wisconsin
+rensselaer
+rice
+dartmouth
+harvard
+university_of_illinois
+
+add_student elizabeth_peters 4
+university_of_wisconsin
+university_of_illinois
+harvard
+yale
+
+add_student john_jones 7
+rice
+university_of_wisconsin
+perdue
+yale
+rensselaer
+harvard
+dartmouth
+
+add_student ryan_brewer 8
+princeton
+yale
+perdue
+university_of_illinois
+rensselaer
+harvard
+rice
+dartmouth
+
+add_student georgiana_davis 4
+princeton
+university_of_wisconsin
+harvard
+yale
+
+add_student bob_chen 6
+university_of_illinois
+dartmouth
+university_of_wisconsin
+university_of_colorado
+rensselaer
+yale
+
+add_student paul_lee 5
+yale
+rensselaer
+harvard
+university_of_colorado
+university_of_wisconsin
+
+add_student nancy_kramer 4
+princeton
+university_of_wisconsin
+dartmouth
+harvard
+
+add_student isabelle_smith 4
+rensselaer
+princeton
+university_of_colorado
+harvard
+
+add_student sally_norton 6
+rice
+university_of_colorado
+yale
+perdue
+university_of_wisconsin
+princeton
+
+add_student wayne_ford 7
+university_of_wisconsin
+princeton
+harvard
+rensselaer
+dartmouth
+university_of_colorado
+perdue
+
+add_student georgiana_brewer 4
+rensselaer
+harvard
+university_of_illinois
+yale
+
+add_student john_chen 6
+yale
+rensselaer
+university_of_illinois
+dartmouth
+university_of_wisconsin
+rice
+
+add_student bob_kramer 4
+dartmouth
+princeton
+university_of_colorado
+university_of_illinois
+
+add_student frank_jones 4
+yale
+rice
+harvard
+dartmouth
+
+add_student elizabeth_kramer 3
+university_of_illinois
+rensselaer
+yale
+
+add_student carol_adams 3
+rensselaer
+perdue
+yale
+
+add_student elizabeth_evans 4
+rice
+rensselaer
+princeton
+perdue
+
+add_student john_lee 8
+yale
+university_of_illinois
+rice
+perdue
+university_of_colorado
+rensselaer
+harvard
+princeton
+
+add_student frank_grey 5
+princeton
+rice
+yale
+rensselaer
+harvard
+
+add_student valerie_kramer 8
+dartmouth
+university_of_illinois
+yale
+princeton
+rice
+rensselaer
+perdue
+university_of_colorado
+
+add_student mary_adams 5
+harvard
+perdue
+university_of_wisconsin
+university_of_colorado
+rensselaer
+
+add_student kim_lee 6
+princeton
+university_of_wisconsin
+harvard
+perdue
+rice
+university_of_illinois
+
+add_student daniel_grey 7
+university_of_colorado
+harvard
+dartmouth
+perdue
+yale
+rice
+rensselaer
+
+add_student wayne_evans 6
+university_of_illinois
+harvard
+perdue
+yale
+dartmouth
+rice
+
+add_student ryan_jones 6
+dartmouth
+rice
+perdue
+rensselaer
+university_of_wisconsin
+university_of_colorado
+
+add_student daniel_harrison 8
+princeton
+perdue
+dartmouth
+yale
+harvard
+university_of_colorado
+rice
+university_of_illinois
+
+add_student valerie_smith 4
+university_of_illinois
+yale
+dartmouth
+rice
+
+add_student sally_evans 4
+harvard
+rensselaer
+university_of_colorado
+perdue
+
+add_student daniel_kramer 4
+yale
+rensselaer
+university_of_illinois
+harvard
+
+insert_student_into_school_preference_list yale daniel_harrison kim_weston
+insert_student_into_school_preference_list princeton elizabeth_myers frank_grey
+insert_student_into_school_preference_list dartmouth frank_harrison wayne_ford
+insert_student_into_school_preference_list university_of_colorado carol_weston kim_roberts
+insert_student_into_school_preference_list perdue frank_harrison elizabeth_evans
+insert_student_into_school_preference_list rensselaer ryan_jones ryan_peters
+insert_student_into_school_preference_list rensselaer paul_lee elizabeth_ford
+insert_student_into_school_preference_list rice elizabeth_kramer sally_norton
+insert_student_into_school_preference_list princeton alice_evans paul_lee
+insert_student_into_school_preference_list perdue nancy_kramer larry_chen
+
+remove_school_from_student_preference_list carol_adams perdue
+remove_school_from_student_preference_list wayne_peters dartmouth
+remove_school_from_student_preference_list mary_trotter university_of_illinois
+remove_school_from_student_preference_list daniel_grey perdue
+remove_school_from_student_preference_list sally_norton university_of_wisconsin
+remove_school_from_student_preference_list elizabeth_myers dartmouth
+remove_school_from_student_preference_list mary_adams university_of_wisconsin
+remove_school_from_student_preference_list carol_trotter harvard
+remove_school_from_student_preference_list wayne_evans harvard
+remove_school_from_student_preference_list daniel_harrison princeton
+
+print_school_preferences yale
+print_school_preferences rensselaer
+print_school_preferences university_of_illinois
+print_school_preferences rice
+print_school_preferences university_of_wisconsin
+print_school_preferences harvard
+print_school_preferences dartmouth
+print_school_preferences princeton
+print_school_preferences university_of_colorado
+print_school_preferences perdue
+
+print_student_preferences harold_peters
+print_student_preferences nancy_davis
+print_student_preferences isabelle_weston
+print_student_preferences carol_trotter
+print_student_preferences alice_smith
+print_student_preferences mary_harrison
+print_student_preferences elizabeth_ford
+print_student_preferences elizabeth_chen
+print_student_preferences frank_harrison
+print_student_preferences kim_myers
+print_student_preferences mary_trotter
+print_student_preferences georgiana_evans
+print_student_preferences bob_davis
+print_student_preferences kim_weston
+print_student_preferences elizabeth_myers
+print_student_preferences carol_weston
+print_student_preferences alice_evans
+print_student_preferences larry_chen
+print_student_preferences wayne_peters
+print_student_preferences ryan_peters
+print_student_preferences kim_roberts
+print_student_preferences elizabeth_peters
+print_student_preferences john_jones
+print_student_preferences ryan_brewer
+print_student_preferences georgiana_davis
+print_student_preferences bob_chen
+print_student_preferences paul_lee
+print_student_preferences nancy_kramer
+print_student_preferences isabelle_smith
+print_student_preferences sally_norton
+print_student_preferences wayne_ford
+print_student_preferences georgiana_brewer
+print_student_preferences john_chen
+print_student_preferences bob_kramer
+print_student_preferences frank_jones
+print_student_preferences elizabeth_kramer
+print_student_preferences carol_adams
+print_student_preferences elizabeth_evans
+print_student_preferences john_lee
+print_student_preferences frank_grey
+print_student_preferences valerie_kramer
+print_student_preferences mary_adams
+print_student_preferences kim_lee
+print_student_preferences daniel_grey
+print_student_preferences wayne_evans
+print_student_preferences ryan_jones
+print_student_preferences daniel_harrison
+print_student_preferences valerie_smith
+print_student_preferences sally_evans
+print_student_preferences daniel_kramer
+
+perform_matching
+print_school_enrollments
+print_student_decisions

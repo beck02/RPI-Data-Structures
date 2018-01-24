@@ -1,0 +1,66 @@
+WARNING: could not add paul_weston into school preference list, this student is already in the list
+WARNING: could not add elizabeth_kramer into school preference list, this student is already in the list
+WARNING: could not add paul_weston into school preference list, this student is already in the list
+WARNING: could not add mary_kramer into school preference list, this student is already in the list
+WARNING: could not add paul_weston into school preference list, this student is already in the list
+WARNING: could not add elizabeth_kramer into school preference list, this student is already in the list
+WARNING: could not add elizabeth_kramer into school preference list, this student is already in the list
+WARNING: could not add elizabeth_kramer into school preference list, this student is already in the list
+WARNING: could not add school named university_of_pennsylvania, this school already exists
+WARNING: could not add paul_jones into school preference list, this student is already in the list
+WARNING: could not add carol_evans into school preference list, this student is already in the list
+WARNING: could not add university_of_pennsylvania into student preference list, this school is already in the list
+WARNING: could not add dartmouth into student preference list, this school is already in the list
+WARNING: could not add university_of_washington into student preference list, this school is already in the list
+WARNING: could not add university_of_washington into student preference list, this school is already in the list
+WARNING: could not add university_of_pennsylvania into student preference list, this school is already in the list
+WARNING: could not add dartmouth into student preference list, this school is already in the list
+WARNING: could not add georgia_tech into student preference list, this school is already in the list
+WARNING: could not add perdue into student preference list, this school is already in the list
+WARNING: could not add university_of_pennsylvania into student preference list, this school is already in the list
+WARNING: could not add georgia_tech into student preference list, this school is already in the list
+WARNING: could not add georgia_tech into student preference list, this school is already in the list
+WARNING: could not add georgia_tech into student preference list, this school is already in the list
+WARNING: could not add university_of_pennsylvania into student preference list, this school is already in the list
+WARNING: could not add university_of_pennsylvania into student preference list, this school is already in the list
+WARNING: could not add georgia_tech into student preference list, this school is already in the list
+WARNING: could not add perdue into student preference list, this school is already in the list
+WARNING: could not add student named carol_evans, this student already exists
+WARNING: could not add dartmouth into student preference list, this school is already in the list
+WARNING: could not add harvard into student preference list, this school is already in the list
+WARNING: could not add university_of_pennsylvania into student preference list, this school is already in the list
+WARNING: could not add georgia_tech into student preference list, this school is already in the list
+WARNING: could not add georgia_tech into student preference list, this school is already in the list
+WARNING: could not add harvard into student preference list, this school is already in the list
+WARNING: could not add perdue into student preference list, this school is already in the list
+WARNING: could not add dartmouth into student preference list, this school is already in the list
+WARNING: could not add perdue into student preference list, this school is already in the list
+WARNING: could not add dartmouth into student preference list, this school is already in the list
+WARNING: could not add georgia_tech into student preference list, this school is already in the list
+WARNING: could not add perdue into student preference list, this school is already in the list
+WARNING: could not add university_of_washington into student preference list, this school is already in the list
+WARNING: could not add perdue into student preference list, this school is already in the list
+WARNING: could not add georgia_tech into student preference list, this school is already in the list
+WARNING: could not add caltech into student preference list, this school is already in the list
+WARNING: could not add harvard into student preference list, this school is already in the list
+WARNING: could not add university_of_pennsylvania into student preference list, this school is already in the list
+WARNING: could not add university_of_washington into student preference list, this school is already in the list
+WARNING: could not add university_of_washington into student preference list, this school is already in the list
+WARNING: could not add university_of_washington into student preference list, this school is already in the list
+WARNING: could not add university_of_washington into student preference list, this school is already in the list
+WARNING: could not add caltech into student preference list, this school is already in the list
+WARNING: could not insert student into school preference list, no school named perdue
+WARNING: could not insert student into school preference list, no school named caltech
+WARNING: could not insert new student into school preference list before daniel_myers, this student is not in the list
+WARNING: could not insert new student into school preference list before mary_kramer, this student is not in the list
+WARNING: could not remove school from student preference list, no student named mary_kramer
+WARNING: could not print student preference list for perdue, that school does not exist
+WARNING: could not print student preference list for caltech, that school does not exist
+WARNING: could not print school preference list for mary_kramer, that student does not exist
+WARNING: could not print school preference list for paul_lee, that student does not exist
+WARNING: could not make offer to student mary_kramer, that student does not exist
+WARNING: could not make offer to student paul_lee, that student does not exist
+WARNING: could not make offer to student mary_kramer, that student does not exist
+WARNING: could not make offer to student paul_lee, that student does not exist
+WARNING: could not make offer to student mary_kramer, that student does not exist
+WARNING: could not make offer to student mary_kramer, that student does not exist

@@ -1,0 +1,48 @@
+l watchmen
+
+a 3 the_killing_joke
+a 2 civil_war
+a 0 infinity_gauntlet
+a 1 watchmen
+
+l civil_war
+l infinity_gauntlet
+
+c tony civil_war
+c steve civil_war
+c peter civil_war
+c bruce the_killing_joke
+c thanos infinity_gauntlet
+
+p
+
+l civil_war
+l the_killing_joke
+
+a 5 infinity_gauntlet
+a -1 ant_man
+a 3 age_of_ultron
+
+c tony infinity_gauntlet
+c groot infinity_gauntlet
+c wanda age_of_ultron
+c jarvis age_of_ultron
+
+l ant_man
+
+r bruce
+
+p
+
+c hank ant_man
+
+r natasha
+r tony
+
+l ant_man
+
+p
+
+r hank
+
+l ant_man

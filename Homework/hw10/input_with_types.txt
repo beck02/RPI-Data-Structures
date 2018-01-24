@@ -1,0 +1,136 @@
+organism
+type: tiger
+name: tony
+has: stripes
+lives_in: land
+eats: animals
+eats: deer
+has: fur
+lays_eggs: false
+warm_blooded: true
+adult_weight: >100lbs
+has: teeth
+lifespan: <100yrs
+
+organism
+name: vera
+type: venus_fly_trap
+eats: bugs
+lives_in: land
+has: leaves
+adult_weight: <100lbs
+has: roots
+lifespan: <100yrs
+
+organism
+name: polly
+type: penguin
+eats: fish
+lives_in: water
+lives_in: land
+lays_eggs: true
+warm_blooded: true
+has: feathers
+adult_weight: <100lbs
+has: bill
+lifespan: <100yrs
+
+organism
+name: catherine
+type: cardinal
+has: wings
+lives_in: air
+lays_eggs: true
+has: feathers
+warm_blooded: true
+eats: seeds
+eats: plants
+adult_weight: <100lbs
+has: bill
+lifespan: <100yrs
+
+organism
+name: ronald
+type: rhinoceros
+eats: grass
+has: fur
+lives_in: land
+lays_eggs: false
+warm_blooded: true
+adult_weight: >100lbs
+has: teeth
+has: horn
+lifespan: <100yrs
+
+organism
+name: nathan
+type: trout
+lives_in: water
+lays_eggs: true
+has: scales
+warm_blooded: false
+has: fins
+eats: bugs
+adult_weight: <100lbs
+lifespan: <100yrs
+
+organism
+name: larry
+type: platypus
+has: bill
+lays_eggs: true
+lives_in: water
+lives_in: land
+warm_blooded: true
+has: fur  
+eats: bugs
+adult_weight: <100lbs
+lifespan: <100yrs
+
+organism
+name: yogi
+type: bear
+eats: bugs
+eats: plants
+lives_in: land
+has: fur
+lays_eggs: false            
+warm_blooded: true
+eats: fish
+eats: deer
+adult_weight: >100lbs
+has: teeth
+lifespan: <100yrs
+
+organism
+name: olive
+type: tortoise
+lives_in: land
+eats: leaves
+warm_blooded: false
+has: scales
+lays_eggs: true
+lifespan: >100yrs
+
+organism
+name: sherman
+type: redwood
+has: leaves
+adult_weight: >100lbs
+has: roots
+has: branches
+lifespan: >100yrs
+lives_in: land
+
+organism
+name: wayne
+type: bat
+eats: bugs
+has: wings
+warm_blooded: true
+lays_eggs: false            
+adult_weight: <100lbs
+has: teeth
+lifespan: <100yrs
+lives_in: air
+lives_in: land

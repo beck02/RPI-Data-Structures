@@ -1,0 +1,313 @@
+add_school dartmouth 9 15
+mary_kramer
+daniel_myers
+bob_evans
+paul_weston
+sally_jones
+ryan_roberts
+paul_weston
+elizabeth_kramer
+paul_lee
+elizabeth_weston
+larry_roberts
+alice_grey
+elizabeth_kramer
+valerie_davis
+paul_weston
+
+add_school georgia_tech 8 8
+alice_grey
+larry_roberts
+ryan_roberts
+carol_evans
+ryan_evans
+valerie_davis
+harold_chen
+carol_smith
+
+add_school university_of_pennsylvania 10 14
+alice_grey
+harold_chen
+paul_weston
+larry_brewer
+paul_trotter
+ryan_evans
+paul_jones
+elizabeth_kramer
+mary_kramer
+daniel_myers
+bob_evans
+mary_kramer
+carol_evans
+paul_weston
+
+add_school university_of_pennsylvania 9 14
+ryan_roberts
+paul_lee
+valerie_davis
+mary_kramer
+elizabeth_weston
+elizabeth_kramer
+carol_evans
+carol_smith
+elizabeth_kramer
+sally_jones
+elizabeth_kramer
+larry_brewer
+harold_chen
+elizabeth_kramer
+
+add_school university_of_washington 8 11
+paul_jones
+sally_jones
+harold_chen
+carol_evans
+elizabeth_weston
+larry_brewer
+ryan_evans
+paul_jones
+ryan_roberts
+mary_kramer
+paul_trotter
+
+add_school harvard 6 15
+paul_lee
+larry_brewer
+alice_grey
+carol_evans
+bob_evans
+ryan_evans
+paul_jones
+mary_kramer
+daniel_myers
+paul_weston
+carol_evans
+paul_trotter
+elizabeth_weston
+larry_roberts
+harold_chen
+
+add_student ryan_roberts 10
+harvard
+georgia_tech
+university_of_washington
+university_of_pennsylvania
+perdue
+university_of_pennsylvania
+dartmouth
+dartmouth
+university_of_washington
+university_of_washington
+
+add_student elizabeth_weston 10
+university_of_pennsylvania
+georgia_tech
+university_of_pennsylvania
+dartmouth
+caltech
+dartmouth
+georgia_tech
+perdue
+harvard
+perdue
+
+add_student bob_evans 7
+university_of_pennsylvania
+caltech
+dartmouth
+perdue
+university_of_washington
+harvard
+university_of_pennsylvania
+
+add_student paul_trotter 9
+perdue
+university_of_washington
+caltech
+harvard
+dartmouth
+georgia_tech
+georgia_tech
+university_of_pennsylvania
+georgia_tech
+
+add_student carol_evans 9
+university_of_pennsylvania
+harvard
+georgia_tech
+university_of_washington
+dartmouth
+georgia_tech
+caltech
+perdue
+university_of_pennsylvania
+
+add_student larry_roberts 4
+university_of_washington
+georgia_tech
+university_of_pennsylvania
+university_of_pennsylvania
+
+add_student paul_weston 5
+university_of_pennsylvania
+caltech
+university_of_washington
+dartmouth
+harvard
+
+add_student carol_evans 6
+georgia_tech
+perdue
+dartmouth
+harvard
+georgia_tech
+perdue
+
+add_student sally_jones 7
+caltech
+harvard
+dartmouth
+perdue
+university_of_washington
+dartmouth
+georgia_tech
+
+add_student carol_smith 9
+harvard
+university_of_washington
+university_of_pennsylvania
+harvard
+university_of_pennsylvania
+georgia_tech
+georgia_tech
+georgia_tech
+harvard
+
+add_student elizabeth_kramer 10
+perdue
+georgia_tech
+university_of_pennsylvania
+perdue
+caltech
+dartmouth
+dartmouth
+perdue
+dartmouth
+georgia_tech
+
+add_student daniel_myers 9
+perdue
+harvard
+dartmouth
+university_of_pennsylvania
+university_of_washington
+georgia_tech
+perdue
+caltech
+university_of_washington
+
+add_student alice_grey 10
+university_of_washington
+harvard
+university_of_pennsylvania
+perdue
+dartmouth
+georgia_tech
+perdue
+georgia_tech
+caltech
+caltech
+
+add_student ryan_evans 7
+perdue
+caltech
+university_of_pennsylvania
+university_of_washington
+harvard
+harvard
+university_of_pennsylvania
+
+add_student paul_jones 6
+university_of_pennsylvania
+georgia_tech
+university_of_washington
+university_of_washington
+caltech
+university_of_washington
+
+add_student valerie_davis 8
+dartmouth
+georgia_tech
+university_of_pennsylvania
+perdue
+university_of_washington
+caltech
+harvard
+university_of_washington
+
+add_student harold_chen 4
+university_of_washington
+university_of_washington
+dartmouth
+harvard
+
+add_student larry_brewer 6
+dartmouth
+university_of_washington
+georgia_tech
+university_of_pennsylvania
+caltech
+caltech
+
+insert_student_into_school_preference_list university_of_washington carol_smith elizabeth_weston
+insert_student_into_school_preference_list perdue harold_chen mary_kramer
+insert_student_into_school_preference_list dartmouth harold_chen daniel_myers
+insert_student_into_school_preference_list harvard valerie_davis larry_roberts
+insert_student_into_school_preference_list university_of_washington alice_grey ryan_roberts
+insert_student_into_school_preference_list caltech bob_evans ryan_evans
+insert_student_into_school_preference_list university_of_washington daniel_myers alice_grey
+insert_student_into_school_preference_list georgia_tech paul_weston daniel_myers
+insert_student_into_school_preference_list georgia_tech elizabeth_weston mary_kramer
+
+remove_school_from_student_preference_list carol_evans georgia_tech
+remove_school_from_student_preference_list elizabeth_kramer georgia_tech
+remove_school_from_student_preference_list alice_grey georgia_tech
+remove_school_from_student_preference_list daniel_myers perdue
+remove_school_from_student_preference_list mary_kramer georgia_tech
+remove_school_from_student_preference_list carol_evans caltech
+remove_school_from_student_preference_list paul_jones georgia_tech
+remove_school_from_student_preference_list paul_weston caltech
+
+print_school_preferences dartmouth
+print_school_preferences georgia_tech
+print_school_preferences university_of_pennsylvania
+print_school_preferences perdue
+print_school_preferences university_of_pennsylvania
+print_school_preferences university_of_washington
+print_school_preferences harvard
+print_school_preferences caltech
+
+print_student_preferences ryan_roberts
+print_student_preferences mary_kramer
+print_student_preferences elizabeth_weston
+print_student_preferences bob_evans
+print_student_preferences paul_trotter
+print_student_preferences carol_evans
+print_student_preferences larry_roberts
+print_student_preferences paul_weston
+print_student_preferences carol_evans
+print_student_preferences sally_jones
+print_student_preferences carol_smith
+print_student_preferences elizabeth_kramer
+print_student_preferences daniel_myers
+print_student_preferences alice_grey
+print_student_preferences ryan_evans
+print_student_preferences paul_lee
+print_student_preferences paul_jones
+print_student_preferences valerie_davis
+print_student_preferences harold_chen
+print_student_preferences larry_brewer
+
+perform_matching
+print_school_enrollments
+print_student_decisions

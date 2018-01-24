@@ -1,0 +1,47 @@
+added 2 copies of pride_and_prejudice
+added 5 copies of accelerated_c++
+added 1 copy of harry_potter
+sally checked out pride_and_prejudice
+sally already has pride_and_prejudice
+don't have snakes_on_a_plane in library
+bob checked out harry_potter
+no copies of harry_potter available
+bob checked out pride_and_prejudice
+bob has these items checked out:
+  harry_potter
+  pride_and_prejudice
+sally has this item checked out:
+  pride_and_prejudice
+library info for: pride_and_prejudice
+  2 copies checked out by:
+    sally
+    bob
+library info for: accelerated_c++
+  5 copies available
+library info for: harry_potter
+  1 copy checked out by:
+    bob
+added 8 copies of harry_potter
+sally checked out harry_potter
+library info for: harry_potter
+  7 copies available
+  2 copies checked out by:
+    bob
+    sally
+bob has these items checked out:
+  harry_potter
+  pride_and_prejudice
+sally has these items checked out:
+  pride_and_prejudice
+  harry_potter
+sally returned 2 items
+bob has these items checked out:
+  harry_potter
+  pride_and_prejudice
+library info for: pride_and_prejudice
+  1 copy available
+  1 copy checked out by:
+    bob
+sally checked out accelerated_c++
+sally returned 1 item
+sally has no items checked out

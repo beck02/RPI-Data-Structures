@@ -1,0 +1,88 @@
+organism
+name: tony
+has: stripes
+lives_in: land
+has: fur
+adult_weight: >100lbs
+has: teeth
+eats: deer
+
+organism
+name: vera
+eats: bugs
+has: roots
+
+organism
+name: polly
+eats: fish
+lays_eggs: true
+warm_blooded: true
+has: feathers
+
+organism
+name: catherine
+has: feathers
+eats: seeds
+has: bill
+lives_in: air
+
+organism
+name: ronald
+eats: grass
+has: fur
+warm_blooded: true
+adult_weight: >100lbs
+has: teeth
+has: horn
+lifespan: <100yrs
+
+organism
+name: nathan
+lives_in: water
+lays_eggs: true
+has: scales
+eats: bugs
+adult_weight: <100lbs
+
+organism
+name: larry
+has: bill
+lays_eggs: true
+lives_in: land
+warm_blooded: true
+has: fur  
+eats: bugs
+lifespan: <100yrs
+
+organism
+name: yogi
+eats: bugs
+has: fur
+lays_eggs: false            
+warm_blooded: true
+eats: fish
+adult_weight: >100lbs
+has: teeth
+
+organism
+name: olive
+warm_blooded: false
+has: scales
+lays_eggs: true
+lifespan: >100yrs
+eats: plants
+
+organism
+name: sherman
+has: leaves
+adult_weight: >100lbs
+has: branches
+lifespan: >100yrs
+
+organism
+name: wayne
+eats: bugs
+has: wings
+warm_blooded: true
+lays_eggs: false            
+lives_in: air

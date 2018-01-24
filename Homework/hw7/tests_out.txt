@@ -1,0 +1,66 @@
+library info for: watchmen
+  0 copies checked out by:
+library info for: watchmen
+  0 copies checked out by:
+added 3 copies of the_killing_joke
+added 2 copies of civil_war
+library info for: civil_war
+  2 copies available
+  0 copies checked out by:
+library info for: infinity_gauntlet
+  0 copies checked out by:
+tony checked out civil_war
+steve checked out civil_war
+no copies of civil_war available
+bruce checked out the_killing_joke
+no copies of infinity_gauntlet available
+bruce has this item checked out:
+  the_killing_joke
+steve has this item checked out:
+  civil_war
+tony has this item checked out:
+  civil_war
+library info for: civil_war
+  2 copies checked out by:
+    tony
+    steve
+library info for: the_killing_joke
+  2 copies available
+  1 copy checked out by:
+    bruce
+added 5 copies of infinity_gauntlet
+added 3 copies of age_of_ultron
+tony checked out infinity_gauntlet
+groot checked out infinity_gauntlet
+wanda checked out age_of_ultron
+jarvis checked out age_of_ultron
+library info for: ant_man
+  0 copies checked out by:
+bruce returned 1 item
+groot has this item checked out:
+  infinity_gauntlet
+jarvis has this item checked out:
+  age_of_ultron
+steve has this item checked out:
+  civil_war
+tony has these items checked out:
+  civil_war
+  infinity_gauntlet
+wanda has this item checked out:
+  age_of_ultron
+no copies of ant_man available
+natasha has no items checked out
+tony returned 2 items
+library info for: ant_man
+  0 copies checked out by:
+groot has this item checked out:
+  infinity_gauntlet
+jarvis has this item checked out:
+  age_of_ultron
+steve has this item checked out:
+  civil_war
+wanda has this item checked out:
+  age_of_ultron
+hank has no items checked out
+library info for: ant_man
+  0 copies checked out by:

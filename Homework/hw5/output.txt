@@ -1,0 +1,55 @@
+the integers from 10->29
+ 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+
+initial
+UnrolledLL, size: 20
+ node:[6] 10 11 12 13 14 15
+ node:[6] 16 17 18 19 20 21
+ node:[6] 22 23 24 25 26 27
+ node:[2] 28 29
+
+some editing with pop & push
+UnrolledLL, size: 18
+ node:[5] 11 12 13 14 15
+ node:[6] 16 17 18 19 20 21
+ node:[6] 22 23 24 25 26 27
+ node:[1] 28
+
+more editing with pop & push
+UnrolledLL, size: 13
+ node:[6] 16 17 18 19 20 21
+ node:[6] 22 23 24 25 26 27
+ node:[1] 28
+UnrolledLL, size: 12
+ node:[6] 16 17 18 19 20 21
+ node:[6] 22 23 24 25 26 27
+UnrolledLL, size: 16
+ node:[4] 93 92 91 90
+ node:[6] 16 17 18 19 20 21
+ node:[6] 22 23 24 25 26 27
+
+erase the multiples of 3
+UnrolledLL, size: 10
+ node:[2] 92 91
+ node:[4] 16 17 19 20
+ node:[4] 22 23 25 26
+
+do some inserts
+UnrolledLL, size: 14
+ node:[3] 77 92 91
+ node:[6] 77 16 17 77 19 20
+ node:[5] 22 23 25 77 26
+
+insert that overflows the node
+UnrolledLL, size: 15
+ node:[3] 77 92 91
+ node:[3] 77 16 88
+ node:[4] 17 77 19 20
+ node:[5] 22 23 25 77 26
+
+erasing that removes a node
+UnrolledLL, size: 9
+ node:[2] 92 91
+ node:[3] 17 19 20
+ node:[4] 22 23 25 26
+

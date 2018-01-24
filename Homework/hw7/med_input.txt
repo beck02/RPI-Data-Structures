@@ -1,0 +1,54 @@
+a 3 fellowship_of_the_ring
+a 3 where_the_red_fern_grows
+a 3 emma
+a 2 les_miserables
+a 1 hunger_games
+l hunger_games
+c melissa les_miserables
+r melissa
+r tammy
+c tammy emma
+l emma
+c ulysses les_miserables
+c ulysses where_the_red_fern_grows
+c tammy hunger_games
+r tammy
+r melissa
+c olive hunger_games
+p
+c tammy where_the_red_fern_grows
+c olive hunger_games
+r olive
+c bernard hunger_games
+l emma
+c melissa les_miserables
+l where_the_red_fern_grows
+l emma
+c tammy emma
+c olive emma
+c melissa where_the_red_fern_grows
+p
+c ulysses emma
+r melissa
+c olive emma
+c tammy hunger_games
+c ulysses where_the_red_fern_grows
+l emma
+c tammy fellowship_of_the_ring
+c melissa fellowship_of_the_ring
+l hunger_games
+r olive
+c melissa hunger_games
+p
+l les_miserables
+r bernard
+c melissa emma
+c bernard hunger_games
+c tammy fellowship_of_the_ring
+c melissa fellowship_of_the_ring
+c bernard fellowship_of_the_ring
+c melissa les_miserables
+c ulysses fellowship_of_the_ring
+l hunger_games
+c bernard hunger_games
+p
