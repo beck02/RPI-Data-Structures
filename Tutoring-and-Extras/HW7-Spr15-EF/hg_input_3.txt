@@ -1,0 +1,50 @@
+load hansel_and_gretel.txt 3 ignore_punctuation
+
+print "could"
+
+print "could be"
+print "could get"
+print "could no"
+print "could not"
+
+print "not"
+
+print "not find"
+print "not get"
+print "not see"
+
+print "get out"
+
+print "out of"
+
+generate "could" 4 most_common
+generate "could" 10 most_common
+
+generate "not find" 4 most_common
+generate "not find" 10 most_common
+
+generate "could" 4 random
+generate "could" 4 random
+generate "could" 4 random
+generate "could" 4 random
+generate "could" 4 random
+
+generate "could" 10 random
+generate "could" 10 random
+generate "could" 10 random
+generate "could" 10 random
+generate "could" 10 random
+
+generate "not find" 4 random
+generate "not find" 4 random
+generate "not find" 4 random
+generate "not find" 4 random
+generate "not find" 4 random
+
+generate "not find" 10 random
+generate "not find" 10 random
+generate "not find" 10 random
+generate "not find" 10 random
+generate "not find" 10 random
+
+quit

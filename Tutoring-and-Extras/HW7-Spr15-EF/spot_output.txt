@@ -1,0 +1,16 @@
+Loaded spot.txt with window = 2 and parse method = ignore_punctuation
+
+jane (2)
+jane run (1)
+jane see (1)
+
+run (2)
+run see (1)
+
+see (3)
+see jane (2)
+see spot (1)
+
+spot (1)
+spot run (1)
+

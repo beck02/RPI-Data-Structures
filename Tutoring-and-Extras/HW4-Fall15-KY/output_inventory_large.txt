@@ -1,0 +1,1087 @@
+T0010 0 available Pickaxe
+Rental Customers: C1049 Kenna_Russell (1) C6828 Elina_Calder (2) 
+
+T0015 4 available Sharpening_stone
+
+T0024 3 available Scythe
+
+T0034 2 available Seax
+
+T0050 1 available Pipe_clamp
+
+T0091 2 available Machine_press
+
+T0108 1 available Two-man_saw
+Rental Customers: C9522 Vernita_Polansky (4) 
+
+T0109 4 available Crowbar_(tool)
+
+T0154 0 available Drop_point
+Rental Customers: C9551 Tarah_Thorman (2) 
+Pending Customers: C0978 Damian_Warman (2) 
+
+T0162 5 available Table_knife
+
+T0165 3 available Wiggler_(tool)
+
+T0172 9 available Cimeter
+
+T0228 2 available Micrometer
+
+T0232 1 available Pressure_sensor
+
+T0235 3 available Sanding_block
+
+T0242 7 available Dowelmax
+Rental Customers: C7834 Karin_Gwyn (3) 
+
+T0244 3 available Tire_iron
+Rental Customers: C3816 Adah_Hennemann (2) C4650 Ron_Cheatham (4) 
+
+T0248 5 available Karambit
+
+T0265 4 available Hand_fan
+
+T0279 5 available Umnumzaan
+
+T0326 7 available F-clamp
+
+T0338 6 available Countersink
+
+T0356 1 available Tongs
+
+T0357 4 available Grease_gun_(tool)
+Rental Customers: C8090 Shane_Huff (2) 
+
+T0396 7 available The_Pig
+
+T0486 9 available Bradawl
+
+T0497 3 available Primary_grind
+
+T0499 7 available Nutcracker
+
+T0508 6 available Machinist_square
+
+T0511 4 available Cat's_paw_(nail_puller)
+
+T0516 10 available Glass_knife
+
+T0538 5 available Honing_oil
+
+T0557 10 available Shovel
+
+T0597 3 available Srbosjek
+Rental Customers: C2490 Gertie_Kindel (2) 
+
+T0622 2 available Bucksaw
+
+T0626 8 available Flail
+
+T0657 5 available Fixture_(tool)
+
+T0660 9 available Race_knife
+
+T0696 8 available Wasp_knife
+
+T0699 4 available Kukri
+
+T0709 10 available Upholstery_hammer
+
+T0714 4 available Hair_clipper
+
+T0734 3 available Pole_lathe
+Rental Customers: C9728 Philip_Brathwaite (2) 
+
+T0762 7 available Vise
+
+T0776 4 available Beam_compass
+
+T0797 3 available Hacksaw
+
+T0810 0 available Scabbard
+Rental Customers: C2170 Cassey_Laroque (5) 
+
+T0820 8 available Marking_blue
+
+T0868 6 available Jig_(tool)
+
+T0876 7 available Taping_knife
+
+T0884 2 available Fuller_(metalworking)
+Rental Customers: C3240 Arnette_Numbers (5) 
+
+T0893 3 available Grindstone
+
+T0948 7 available Punch_press
+
+T0949 4 available Swiss_Army_knife
+Rental Customers: C3412 Truman_Rockett (1) 
+
+T0960 6 available Swage_block
+
+T0973 1 available Rockbreaker
+
+T0985 2 available Parang_(knife)
+
+T1040 5 available Mattock
+
+T1045 9 available Palette_knife
+
+T1086 10 available Air_hammer_(fabrication)
+
+T1092 3 available Measuring_rod
+Rental Customers: C0635 Thea_Deniz (5) 
+Pending Customers: C6565 April_Bourbeau (4) 
+
+T1151 5 available Cat's_paw_(nail_puller)
+Rental Customers: C3357 Myriam_Moffatt (1) 
+
+T1164 2 available Tecpatl
+
+T1180 2 available Scriber
+
+T1206 5 available Height_gauge
+
+T1261 5 available Hackle_(wig_making)
+
+T1296 2 available Adze
+
+T1320 3 available Broaching_(metalworking)
+
+T1361 0 available Kajandu
+Rental Customers: C8027 Lavada_Stimson (1) 
+
+T1368 2 available Loy_(spade)
+Rental Customers: C4881 Lamar_Settle (1) C9474 Louvenia_Orear (1) 
+
+T1371 2 available Foot_plough
+
+T1372 9 available Batillum
+
+T1438 6 available Gimlet_(tool)
+
+T1447 3 available Etui
+
+T1467 4 available Mandrel
+
+T1487 9 available Halligan_bar
+
+T1568 7 available Riveting_machines
+
+T1582 4 available Stanley_Odd_Jobs
+
+T1591 3 available Hand_truck
+
+T1650 7 available Collet
+Rental Customers: C8963 Kaitlyn_Gartin (3) 
+
+T1688 0 available Snips
+Rental Customers: C5479 Paulina_Mortimer (1) 
+Pending Customers: C8526 Jose_Eby (1) 
+
+T1744 6 available Go/no_go_gauge
+
+T1746 2 available Punch_(tool)
+Rental Customers: C6933 Debby_Vallecillo (3) 
+Pending Customers: C5352 Woodrow_Talor (4) 
+
+T1780 1 available Anvil
+Rental Customers: C7590 Camellia_Swager (1) 
+Pending Customers: C9911 Santina_Millikin (2) 
+
+T1800 7 available Mitre_clamp
+
+T1803 10 available Hand_saw
+
+T1822 1 available Riveting_machines
+
+T1835 10 available Ratchet_knife
+
+T1845 2 available Woodworking_chisel
+Rental Customers: C5148 Rufina_Edmonson (5) 
+Pending Customers: C0721 Ozella_Cantley (4) 
+
+T1847 7 available Meat_hook
+
+T1848 5 available Billhook
+
+T1857 10 available Hacksaw
+
+T1863 7 available Linoleum_knife
+
+T1864 10 available Center_gauge
+
+T1865 0 available Caliper"_class="mw-redirect
+Rental Customers: C5767 Agueda_Drexler (3) 
+
+T1890 2 available Pritchel
+
+T1894 5 available Froe
+
+T1938 4 available Staple_remover
+
+T1944 0 available Electric_torque_wrench
+Rental Customers: C8943 Starr_Sheen (5) 
+Pending Customers: C3845 Madaline_Redeker (1) 
+
+T2017 6 available Hand_steel
+
+T2022 10 available Bow_saw
+
+T2046 6 available Rasp
+
+T2047 0 available Jackhammer
+Rental Customers: C1540 Jacki_Penton (1) 
+
+T2076 5 available Sebenza
+Rental Customers: C1370 Tyisha_Primavera (3) 
+
+T2078 5 available Hydraulic_press
+
+T2086 3 available Flooring_clamp
+
+T2090 7 available Hunting_knife
+
+T2106 5 available Hook_ladder
+
+T2130 6 available J._A._Henckels
+
+T2137 9 available Pesh-kabz
+
+T2155 2 available Profile_gauge
+Rental Customers: C2839 Rosario_Armor (4) 
+Pending Customers: C7346 Della_Travis (3) 
+
+T2172 2 available Die_grinder
+
+T2216 8 available Air_caster
+
+T2270 4 available MPL-50
+
+T2367 7 available Pulaski_(tool)
+
+T2369 4 available Hex_key
+
+T2387 4 available Endmill"_class="mw-redirect
+
+T2408 3 available Tap_and_die
+
+T2423 5 available Pneumatic_lubricator
+
+T2433 0 available Hydraulic_rescue_tools
+Rental Customers: C3757 Sidney_Pilon (1) 
+Pending Customers: C2201 Qiana_Pemberton (1) 
+
+T2439 0 available Grind
+Rental Customers: C5948 Alisha_Posner (3) 
+
+T2472 9 available Metal_fabrication
+
+T2477 9 available Sürmene_knife
+
+T2494 6 available Pneumatic_torque_wrench
+
+T2554 2 available Pritchel
+
+T2556 3 available Ball-peen_hammer
+Rental Customers: C7192 Fatima_Stroope (1) 
+
+T2580 9 available Pliers
+
+T2606 8 available Marking_out
+
+T2639 10 available Forge
+
+T2658 7 available Pliers
+
+T2679 9 available Diamond_knife
+
+T2718 7 available Jackhammer
+
+T2764 1 available Warrior_knife
+
+T2766 9 available Tool_bit
+
+T2825 3 available Knockout_punch
+
+T2833 4 available Commander_(knife)
+
+T2850 1 available Plane_(tool)
+
+T2855 9 available Pressure_switch
+
+T2878 7 available Side_knife
+Rental Customers: C2327 Madeleine_Arocho (3) 
+
+T2893 4 available Trash_hook
+
+T2902 8 available Breaker_(hydraulic)
+
+T2972 5 available Ice_pick
+
+T2974 0 available Utility_knife
+Rental Customers: C0529 Season_Vanbuskirk (5) C5020 Michaele_Turek (1) 
+
+T2981 8 available Nut_driver
+
+T2983 3 available Painting_knife
+Rental Customers: C3346 Hyun_Omara (2) 
+Pending Customers: C1932 Roseanne_Jakes (5) 
+
+T2993 0 available Sine_bar
+Rental Customers: C6988 Darrick_Hartley (1) 
+
+T3003 4 available Mitre_box
+
+T3006 0 available Clamp_(tool)
+Rental Customers: C0071 Delsie_Denmark (2) 
+Pending Customers: C8003 Ceola_Shen (2) 
+
+T3028 9 available Bench_hook
+
+T3047 2 available Hay_knife
+
+T3054 9 available Powder-actuated_tool
+
+T3060 7 available Cheater_bar
+
+T3070 0 available Fixed_ladder
+Rental Customers: C7000 Monroe_Worthington (1) 
+
+T3204 9 available Shear_(sheet_metal)
+
+T3219 2 available Keyhole_saw
+
+T3253 0 available Steak_knife
+Rental Customers: C7209 Luana_Cort (1) 
+Pending Customers: C4269 Meghann_Gordy (1) 
+
+T3322 3 available Skeleton_knife
+
+T3335 5 available Steam_hammer
+Rental Customers: C5462 Deeann_Fortes (5) 
+
+T3367 6 available Clamp_(tool)
+
+T3394 3 available Rivet_gun
+Rental Customers: C0525 Rosie_Nimmons (5) 
+
+T3428 9 available Scriber
+
+T3439 5 available Applegate–Fairbairn_fighting_knife
+
+T3446 9 available Crowbar_(tool)
+
+T3547 10 available Veneer_hammer
+
+T3565 9 available Float_(woodworking)
+
+T3621 8 available Disc_cutter
+Rental Customers: C2175 Roberta_Mo (1) 
+
+T3627 1 available Jacob's_Ladder
+
+T3629 10 available Mbanja
+
+T3683 0 available Heat_gun
+Rental Customers: C6448 Alison_Core (5) 
+
+T3690 10 available Knife_collecting
+
+T3726 5 available High_Frequency_Impact_Treatment
+
+T3780 8 available Corner_chisel
+
+T3799 0 available Switchblade
+Rental Customers: C3407 Anja_Armstong (3) 
+
+T3817 9 available Framing_hammer
+
+T3830 5 available Throwing_knife
+Rental Customers: C1755 Milagro_Celaya (3) C7726 Debra_Hickey (2) 
+
+T3838 10 available Wrench
+
+T3850 6 available Set_square
+
+T3871 10 available Engineer's_blue
+
+T3900 5 available Slide_Hammer
+
+T3903 1 available Trip_hammer
+
+T3961 9 available Wrench
+
+T4004 5 available Mallet
+
+T4097 3 available Bow_drill
+
+T4101 1 available Slater's_stake
+Rental Customers: C4476 Teresa_Stegner (3) 
+
+T4171 5 available Stamping_press
+
+T4183 1 available Veneer_saw
+
+T4199 1 available Upholstery_hammer
+Rental Customers: C0339 Mackenzie_Benge (3) 
+
+T4226 7 available Burr_(cutter)
+
+T4238 7 available Sosrobahu
+
+T4248 9 available Plywood_saw
+
+T4279 5 available Grapefruit_knife
+
+T4308 1 available Grindaknívur
+
+T4310 4 available Impact_wrench
+
+T4334 2 available Set_tool
+
+T4340 6 available Paasche_Airbrush_Company
+
+T4342 1 available Khurpa
+Rental Customers: C5870 Rick_Figura (2) 
+
+T4389 10 available Masonry_trowel
+
+T4401 0 available Screw_press
+Rental Customers: C2524 Phillip_Rosenberry (1) 
+Pending Customers: C7690 Raisa_Acord (1) 
+
+T4413 0 available Screwdriver
+Rental Customers: C0956 Kortney_Jobe (1) 
+Pending Customers: C5361 Fritz_Hoefler (1) 
+
+T4435 4 available Milling_cutter
+Rental Customers: C4277 Gail_Keeney (1) 
+
+T4437 10 available Miter_saw
+
+T4441 2 available Tap_wrench
+
+T4481 2 available Air_knife
+
+T4486 10 available Machinist_square
+
+T4509 1 available CQC-6
+Rental Customers: C6898 Marlana_Pendergrass (3) 
+Pending Customers: C5023 Johnny_Farren (3) 
+
+T4517 2 available Bark_spud_(tool)
+
+T4536 1 available Twybil
+Rental Customers: C4607 Monique_Saling (1) C6207 Cassidy_Chatfield (1) 
+
+T4563 9 available Impact_wrench
+
+T4565 3 available Tap_and_die
+
+T4569 0 available Backscratcher
+Rental Customers: C6382 Susanna_Kingsland (2) C8681 Nerissa_Chitwood (1) 
+
+T4581 2 available Piercing_saw
+Rental Customers: C2319 Alayna_Dimatteo (4) 
+
+T4582 10 available Scratch_stock
+
+T4594 0 available Neck_knife
+Rental Customers: C8589 Carin_Saine (3) 
+
+T4607 8 available Fillet_knife
+
+T4655 0 available Pneumatic_torque_wrench
+Rental Customers: C0714 Ebony_Spath (4) 
+
+T4731 7 available Shear_(sheet_metal)
+
+T4746 7 available Arkansas_toothpick
+
+T4751 5 available Hand_scraper
+
+T4761 8 available Drawknife
+
+T4823 2 available Ceramic_knife
+Rental Customers: C8058 Marvis_Charboneau (4) 
+Pending Customers: C2484 Alonso_Marlett (4) 
+
+T4864 9 available Pressure_sensor
+
+T4875 2 available Stone_and_muller
+Rental Customers: C9850 Elisa_Towry (3) 
+
+T4876 9 available Korean_knife
+
+T4911 4 available Nibbler
+
+T4935 4 available Fuller_(metalworking)
+Rental Customers: C3024 Sterling_Fondren (2) 
+
+T4937 3 available Automatic_center_punch
+Rental Customers: C3901 Jodee_Beavers (1) 
+
+T4938 4 available Bachar_ladder
+
+T4984 1 available Japanese_saw
+
+T4997 3 available Shooting_board
+
+T5002 2 available X-Acto
+
+T5077 5 available Wrench
+
+T5101 4 available Ceramic_tile_cutter
+
+T5109 9 available Radius_gauge
+
+T5112 2 available C-clamp
+
+T5147 4 available Magnetic_base
+
+T5200 4 available Rivet_gun
+
+T5223 4 available Ulu
+Rental Customers: C6841 Peggy_Padua (3) 
+
+T5233 5 available Ice_scraper
+
+T5248 4 available Shove_knife
+
+T5317 0 available Boat_hook
+Rental Customers: C0424 Alfonso_Sprague (1) C3135 Cathleen_Rollins (3) 
+
+T5322 9 available Airbrush
+
+T5338 2 available Card_scraper
+
+T5339 7 available SOG_Knife
+
+T5364 7 available Metalsmith
+Rental Customers: C9461 Pablo_Osorio (2) C9497 Sherice_Saunder (1) 
+
+T5400 4 available Snow_shovel
+
+T5403 4 available Angle_grinder
+
+T5424 10 available F-clamp
+
+T5427 2 available Axe
+Rental Customers: C5905 Dorene_Tienda (2) 
+
+T5438 2 available Fretsaw
+
+T5476 0 available Punch_(tool)
+Rental Customers: C4806 Craig_Svendsen (3) 
+
+T5510 1 available Kard
+
+T5512 4 available Hacking_knife
+
+T5522 5 available Float_(woodworking)
+
+T5528 1 available Nail_gun
+
+T5587 3 available Drift_pin
+Rental Customers: C3914 Hellen_Carey (5) 
+
+T5595 0 available Gerber_Legendary_Blades
+Rental Customers: C7322 Marisa_Pettigrew (1) 
+
+T5665 4 available Hardy_tool
+
+T5669 1 available Reamer
+
+T5684 5 available Claw_tool
+
+T5696 2 available List_of_blade_materials
+
+T5697 1 available Rivet_gun
+Rental Customers: C0462 Gwenn_Mcglothlen (2) 
+
+T5715 3 available Spline_roller
+
+T5745 4 available Gerber_31-001901_Bear_Grylls_Ultimate_Pro
+
+T5746 1 available Nail_clipper
+Rental Customers: C1815 Kristyn_Plotner (5) 
+
+T5781 4 available Screw_extractor
+
+T5784 3 available Bow_drill
+Rental Customers: C5257 Bruce_Syed (2) 
+
+T5796 4 available Sharpfinger
+
+T5840 0 available Gauge_(instrument)
+Rental Customers: C0079 Matthew_Mckamie (2) C5701 Samual_Orellana (2) 
+
+T5859 2 available Piercing_saw
+
+T5871 10 available Ascension_(Calvo)
+
+T5903 10 available SARK
+
+T5960 3 available Auger_(drill)
+
+T5990 6 available Indicator_(distance_amplifying_instrument)
+
+T5991 10 available Screw_gun
+
+T6023 7 available Spike_maul
+
+T6072 9 available Digging_bar
+
+T6119 3 available Jewellery
+
+T6128 1 available Chuck_(engineering)
+Rental Customers: C2857 Arlena_Foye (2) 
+Pending Customers: C9623 Chanelle_Stanfill (3) 
+
+T6172 1 available Wall_chaser
+
+T6213 3 available Gauge_block
+
+T6222 4 available Feeler_gauge
+Rental Customers: C8499 Jame_Nickelson (2) 
+
+T6299 1 available Wire_stripper
+
+T6314 4 available Paper_knife
+Rental Customers: C8843 Micha_Merola (3) 
+Pending Customers: C3259 Madelaine_Gaeth (5) 
+
+T6315 4 available Die_(manufacturing)
+Rental Customers: C5451 Kaleigh_Nolley (1) 
+
+T6379 9 available Staple_knocker
+
+T6383 0 available Shiv_(weapon)
+Rental Customers: C7396 Georgianne_Kamaka (1) 
+Pending Customers: C0081 Peggy_Agosta (1) 
+
+T6420 7 available C-clamp
+
+T6427 9 available Kunai
+
+T6496 8 available Multi-tool
+
+T6525 0 available Ladder
+Rental Customers: C9942 Oralee_Blumberg (1) 
+Pending Customers: C2011 Roma_Earheart (1) 
+
+T6541 1 available Block_plane
+
+T6586 1 available Vernier_scale
+Rental Customers: C3867 Deonna_Neilson (2) C9247 Timika_Longshore (2) 
+
+T6600 8 available Knife_sharpening
+
+T6619 9 available Workbench
+
+T6635 10 available Hardy_tool
+
+T6645 4 available Surform
+
+T6673 2 available Putty_knife
+
+T6678 9 available Shocknife
+
+T6681 5 available Thread_restorer
+
+T6693 7 available Hook_(hand_tool)
+Rental Customers: C4574 Bettyann_Poppe (2) 
+
+T6701 2 available Swivel_knife
+
+T6729 2 available Ruler
+Rental Customers: C7591 Ezra_Difilippo (3) 
+
+T6776 2 available Steel_square
+
+T6791 2 available Beam_compass
+
+T6827 8 available Barong_(knife)
+
+T6854 0 available Fly-whisk
+Rental Customers: C7084 Ramona_Ellwood (1) 
+Pending Customers: C5798 Caren_Newland (1) 
+
+T6859 1 available Needlegun_scaler
+
+T6871 8 available Bullwhip
+
+T6885 3 available Fish_tape
+
+T6895 4 available File_(tool)
+
+T6905 8 available Crosscut_saw
+
+T6930 7 available Card_scraper
+
+T6957 2 available Hammer
+Rental Customers: C8128 Anika_Shadwick (4) 
+
+T7000 9 available Brace_(tool)
+
+T7006 4 available Broadaxe
+Rental Customers: C9634 Avelina_Lapinski (2) 
+
+T7022 2 available Surface_plate
+
+T7047 2 available Bread_knife
+Rental Customers: C8623 Jami_Boice (4) C9813 Paz_Haskin (2) 
+
+T7048 7 available Staple_gun
+
+T7064 0 available Scratch_awl
+Rental Customers: C8196 Talisha_Mishler (3) 
+Pending Customers: C3416 Donte_Ebright (2) 
+
+T7065 0 available Carpenter_pencil
+Rental Customers: C1570 Shavon_Chestnut (1) 
+Pending Customers: C4041 Jina_Smalls (1) 
+
+T7076 10 available Hacksaw
+
+T7094 3 available Rip_saw
+Rental Customers: C9574 Carletta_Shelnutt (4) 
+Pending Customers: C9552 Karla_Shasteen (4) 
+
+T7122 3 available Knife_fight
+Rental Customers: C5553 Wilhelmina_Reinhold (4) 
+
+T7126 6 available Tongs
+
+T7128 4 available Claw_hammer
+
+T7156 0 available Burin
+Rental Customers: C1963 Ozella_Pence (1) 
+
+T7209 2 available Hand_saw
+Rental Customers: C5999 Jed_Plath (1) C7599 Youlanda_Bost (4) 
+
+T7210 0 available Ear_pick
+Rental Customers: C4995 Beverly_Wiens (1) 
+Pending Customers: C0963 Windy_Toon (1) 
+
+T7247 2 available Fly-killing_device
+
+T7253 4 available Staple_gun
+Rental Customers: C2075 Cary_Garret (2) 
+
+T7304 5 available Automatic_center_punch
+
+T7356 3 available Magnetic_base
+
+T7362 5 available Clip_point
+Rental Customers: C4418 Bella_Prins (4) C7297 Mellisa_Irish (1) 
+
+T7374 0 available Casting
+Rental Customers: C0966 Elvie_Dennett (3) 
+
+T7411 8 available Tape_measure
+
+T7435 10 available Rampuri
+
+T7443 3 available Honing_steel
+
+T7451 10 available Skinner_knife
+
+T7459 0 available Coal_shovel
+Rental Customers: C7909 Tiara_Amaya (1) 
+Pending Customers: C1307 Nicolas_Mellin (1) 
+
+T7481 5 available Hand_scraper
+
+T7508 1 available Mobile_safety_steps
+Rental Customers: C0395 Vernia_Besaw (1) 
+Pending Customers: C3083 Alesia_Hintzen (2) 
+
+T7513 0 available Dremel
+Rental Customers: C6306 Sommer_Sisson (4) 
+
+T7520 7 available Cant_hook
+
+T7522 0 available Workbench
+Rental Customers: C6582 Thea_Riendeau (1) 
+
+T7529 0 available Welding
+Rental Customers: C6187 Idalia_Chavira (2) 
+
+T7530 1 available Workbench
+Rental Customers: C7997 Dorian_Howie (2) 
+
+T7533 4 available Straightedge
+
+T7550 6 available Hammer
+Rental Customers: C0932 Norma_Stoner (3) C9174 Azzie_Albritton (1) 
+
+T7633 2 available Bolt_cutter
+
+T7644 10 available Hydraulic_splitter
+
+T7652 0 available Paslode_Impulse
+Rental Customers: C7431 Pamela_Barhorst (2) C9026 Donnie_Silvis (4) 
+
+T7692 8 available English_wheel
+
+T7739 4 available Screwdriver
+Rental Customers: C0647 Gale_Overson (1) C9489 Mimi_Lodi (5) 
+
+T7742 10 available Dustpan
+
+T7769 3 available Pencil_sharpener
+Rental Customers: C0404 Yuette_Isakson (5) 
+
+T7799 3 available Sheath_knife
+Rental Customers: C0613 Stephine_Gunnells (3) 
+
+T7813 1 available Hacking_knife
+
+T7849 0 available Sharpening_jig
+Rental Customers: C4837 Marcela_Gao (1) 
+
+T7854 3 available Wire_brush
+Rental Customers: C9006 Brynn_Yeoman (1) 
+Pending Customers: C9346 Bethany_Drey (4) 
+
+T7871 10 available Needlegun_scaler
+
+T7884 2 available Böker
+Rental Customers: C9202 Mike_Garbutt (3) 
+
+T7886 8 available Combination_square
+
+T7935 1 available Punch_(tool)
+Rental Customers: C9570 Devora_Sleeth (3) 
+
+T7957 7 available Indexing_head
+
+T7962 4 available Countersink
+
+T7968 0 available Microplane
+Rental Customers: C2906 Sharla_Diangelo (2) C4965 Maura_Mathers (1) 
+
+T7996 3 available Hydraulic_torque_wrench
+
+T8013 5 available Brace_(tool)
+
+T8044 3 available Stock_knife
+
+T8116 0 available Marking_gauge
+Rental Customers: C1766 Rochell_Bramhall (4) 
+Pending Customers: C4856 Stuart_Gonsoulin (4) 
+
+T8138 5 available Coping_saw
+
+T8178 4 available Snow_knife
+Rental Customers: C4578 Marsha_Allbritton (1) C8074 Erich_Pietrzak (4) 
+
+T8206 3 available Peavey_(tool)
+
+T8226 7 available Impact_driver
+
+T8250 1 available Rösle
+
+T8260 7 available Kinmen_knife
+
+T8285 5 available Power_tool
+Rental Customers: C8765 Nakita_Besecker (4) 
+
+T8311 6 available Gerber_multitool
+Rental Customers: C7537 Yer_Schlecht (3) 
+
+T8345 3 available Trowel
+Rental Customers: C8346 Aleida_Blume (5) 
+Pending Customers: C5671 Jone_Dalessio (5) 
+
+T8367 10 available Saw_set
+
+T8369 2 available Miter_saw
+Rental Customers: C1885 Clarence_Coard (4) C8702 Jill_Peasley (3) 
+
+T8380 10 available Drift_pin
+
+T8383 1 available Cradle_(grain)
+
+T8414 1 available Air_hammer_(fabrication)
+Rental Customers: C7821 Emely_Winborne (1) 
+
+T8493 1 available Al_Mar_Knives
+
+T8510 2 available Jackhammer
+
+T8527 5 available Crooked_knife
+
+T8533 2 available Thread_pitch_gauge
+
+T8549 3 available Combination_square
+
+T8563 7 available Gripe_(tool)
+
+T8572 0 available Profile_gauge
+Rental Customers: C0293 Tiera_Delker (2) C4126 Yolonda_Sleeper (1) 
+
+T8594 1 available Sami_knife
+
+T8609 3 available Race_knife
+
+T8621 7 available Block_plane
+
+T8704 7 available Mora_knife
+
+T8711 5 available Bowie_knife
+Rental Customers: C1009 Benita_Tedder (2) 
+
+T8776 4 available Utility_knife
+Rental Customers: C4193 Leticia_Pigott (2) 
+
+T8781 1 available Wire_brush
+
+T8815 2 available Rigging_knife
+
+T8892 2 available Backsaw
+
+T8922 0 available Tipped_tool
+Rental Customers: C6325 Chester_Lashbrook (1) 
+
+T8932 6 available Knife_making
+
+T8948 1 available Qama
+
+T8961 5 available Metallurgy
+
+T8965 3 available Hydraulic_torque_wrench
+
+T8989 5 available Angle_plate
+
+T9011 5 available Optical_comparator
+
+T9020 9 available Gunong
+
+T9082 3 available Lathe_center
+
+T9159 0 available Bhuj_(weapon)
+Rental Customers: C5338 Deonna_Ruple (4) 
+Pending Customers: C7112 Wanetta_Brannock (4) 
+
+T9200 4 available Ballistic_knife
+
+T9214 1 available Pressure_switch
+
+T9222 9 available Ball-peen_hammer
+
+T9236 2 available Chain_tool
+Rental Customers: C0106 Shandra_Wilber (3) C1036 Lynnette_Nicholson (3) 
+
+T9237 3 available Yuken_Europe
+Rental Customers: C2535 Herta_Saenz (2) C7464 Sergio_Reasor (4) 
+
+T9253 1 available High_Frequency_Impact_Treatment
+Rental Customers: C0866 Alethea_Courchesne (1) 
+Pending Customers: C0402 Alberto_Roussell (2) 
+
+T9254 5 available Hammer_drill
+
+T9262 6 available Dolabra
+
+T9272 4 available Handspike
+
+T9280 5 available Die_grinder
+
+T9295 4 available Chisel
+Rental Customers: C0263 Gus_Champion (1) C9760 Madalyn_Croston (3) 
+
+T9301 8 available Puukko
+
+T9309 5 available Brake_(sheet_metal_bending)
+
+T9319 4 available Technical_drawing_tool
+
+T9345 2 available Knife_legislation
+
+T9347 0 available Hawk_(plasterer's_tool)
+Rental Customers: C4631 Meredith_Bruso (2) 
+Pending Customers: C0554 Yolande_Motton (1) 
+
+T9381 6 available Slick_(tool)
+
+T9414 8 available Machinist_square
+
+T9423 6 available Māripi
+
+T9438 9 available Rotary_table
+
+T9440 6 available Counterbore
+
+T9454 1 available Punch_(tool)
+
+T9485 6 available Machine_taper
+
+T9486 8 available Westcott_scissors_and_rulers
+
+T9512 1 available Engineer's_spirit_level
+Rental Customers: C4834 Rafael_Salem (1) C5358 Warren_Merino (1) 
+
+T9536 7 available Sticking_knife
+
+T9560 4 available Boring_machine_(carpentry)
+
+T9569 0 available Forming_process"_class="mw-redirect
+Rental Customers: C4627 Dirk_Fenley (1) 
+Pending Customers: C8133 Nicki_Morency (1) 
+
+T9614 1 available Wood_scribe
+Rental Customers: C1217 Denese_Fore (3) 
+Pending Customers: C8251 Mable_Mccool (3) 
+
+T9640 8 available Survival_knife
+
+T9656 1 available Knife_game
+Rental Customers: C2558 Aide_Gorgone (4) 
+
+T9667 4 available Machining
+
+T9673 2 available Hackman_butterfly_knife
+
+T9708 4 available Kitchen_knife_indentation
+
+T9783 1 available Bore_gauge
+
+T9784 1 available Lock_picking
+Rental Customers: C0918 Nia_Fults (5) C7310 Phyllis_Besaw (2) 
+
+T9791 3 available Podger_spanner
+
+T9802 5 available Underground_pneumatic_boring
+
+T9817 1 available Clamp_(tool)
+
+T9842 0 available Metalworking_terminology
+Rental Customers: C5563 Omer_Barbera (4) C8640 Nannette_Brakebill (3) 
+
+T9868 3 available Torque_screwdriver
+Rental Customers: C0895 Vallie_Salas (4) 
+
+T9894 3 available Olfa
+
+T9918 3 available Ceramic_tile_cutter
+Rental Customers: C9353 Hallie_Donohue (3) 
+Pending Customers: C6935 Marcela_Woolston (5) 
+
+T9922 9 available Razee_plane
+
+T9956 4 available Crowbar_(tool)
+
+T9983 0 available Spokeshave
+Rental Customers: C7679 Carin_Ahearn (1) 
+Pending Customers: C0181 Jani_Murphree (1) 
+
+T9989 5 available Vise
+
+T9998 3 available Hand_scraper
+Rental Customers: C5617 Terri_Amick (3) 
+

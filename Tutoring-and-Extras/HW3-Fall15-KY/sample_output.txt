@@ -1,0 +1,221 @@
+=====================================================================
+test_example()
+empty board with width = 6:
+
+------
+000000
+
+after adding first piece:
+
+ OO   
+ OO   
+------
+022000
+
+after adding three more pieces:
+
+   OO 
+   OO 
+    I 
+    I 
+    I 
+    I 
+  IIII
+ OO   
+ OO   
+------
+023993
+
+after adding another piece, we need to score to remove the third row:
+
+   OO 
+   OO 
+    I 
+    I 
+    I 
+OO  I 
+OOIIII
+ OO   
+ OO   
+------
+443993
+
+after removing 1 full row:
+
+   OO 
+   OO 
+    I 
+    I 
+    I 
+OO  I 
+ OO   
+ OO   
+------
+332880
+
+done with test_example()
+=====================================================================
+test_score_multirow()
+interesting board with 6 pieces:
+
+   OOOO
+OO OOOO
+OO  OO 
+OO  OO 
+OO IIII
+-------
+4405555
+
+after adding 7th piece, before scoring:
+
+   OOOO
+OOIOOOO
+OOI OO 
+OOI OO 
+OOIIIII
+-------
+4445555
+
+after removing 2 rows:
+
+   OOOO
+OOI OO 
+OOI OO 
+-------
+2223333
+
+after adding 8th & 9th pieces,  before scoring:
+
+I      
+I      
+IOO    
+IOOOOOO
+OOI OO 
+OOI OO 
+-------
+6443333
+
+after removing 1 more row:
+
+I      
+I      
+IOO    
+OOI OO 
+OOI OO 
+-------
+5330220
+
+before scoring a quad row removal...
+
+IOO    
+IOO OOI
+IOO OOI
+OOI OOI
+OOI OOI
+-------
+5550444
+
+after the quad row removal... 
+
+IOO    
+-------
+1110000
+
+done with test_score_multirow()
+=====================================================================
+test_add_remove_columns()
+start with a board of width 5 and a couple pieces:
+
+OO   
+OO   
+ IIII
+-----
+33111
+
+add a column to the left, then right side of the board:
+
+ OO   
+ OO   
+  IIII
+------
+033111
+
+
+ OO    
+ OO    
+  IIII 
+-------
+0331110
+
+add a few more pieces to the board:
+
+IIII   
+ OO  OO
+ OO  OO
+  IIII 
+-------
+4444133
+
+remove the leftmost the rightmost columns (and lose any squares in those columns):
+
+III   
+OO  OO
+OO  OO
+ IIII 
+------
+444133
+
+
+III  
+OO  O
+OO  O
+ IIII
+-----
+44413
+
+after dropping another column from the left, the board has a full row that can be scored:
+
+II  
+O  O
+O  O
+IIII
+----
+4413
+
+
+II  
+O  O
+O  O
+----
+3302
+
+done with test_add_remove_columns()
+=====================================================================
+test_all_pieces_all_rotations()
+
+ J        JJ        
+ J        J         
+JJ        J    JJJ  
+L    J    LL     J  
+L    JJJ   L     L  
+LL   LLL   L   LLL  
+ SS  L     SS  S    
+SS   S    SS   SS   
+ZZ   SS   ZZ    S   
+ ZZ   S    ZZ   Z   
+TTT   Z    T   ZZ   
+ T   ZZ   TTT  Z    
+OO   ZT   OO   T    
+OO   TT   OO   TT   
+I     T   I    T    
+I    OO   I    OO   
+I    OO   I    OO   
+I    IIII I    IIII 
+--------------------
+111  111  111  111  
+68200544108820066610
+
+done with test_all_pieces_all_rotations()
+=====================================================================
+additional_student_tests()
+done with additional_student_tests()

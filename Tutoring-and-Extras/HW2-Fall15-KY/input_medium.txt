@@ -1,0 +1,689 @@
+MATCH ID 1778934506
+WINNING TEAM
+  EzXin playing champion Maokai
+  JaxintheBox playing champion Amumu
+  Yoreo playing champion Sivir
+  XianJin playing champion Zed
+  Massacre10 playing champion Thresh
+LOSING TEAM
+  TSMBumbus playing champion Volibear
+  Ind0 playing champion LeBlanc
+  DonMinator playing champion Vayne
+  TheOneWhoHunts playing champion XinZhao
+  RoofEooooH playing champion Leona
+EVENTS
+  @ 215281 Massacre10 [ Yoreo ] killed DonMinator
+  @ 289738 EzXin killed TheOneWhoHunts
+  @ 393210 TheOneWhoHunts killed EzXin
+  @ 409108 Yoreo [ JaxintheBox ] killed DonMinator
+  @ 414906 XianJin killed Ind0
+  @ 418235 Yoreo [ JaxintheBox Massacre10 ] killed RoofEooooH
+  @ 474454 TheOneWhoHunts killed EzXin
+  @ 479423 EzXin killed TheOneWhoHunts
+  @ 509689 XianJin killed TSMBumbus
+  @ 583827 Ind0 killed XianJin
+  @ 654300 Massacre10 [ Yoreo ] killed DonMinator
+  @ 767004 Yoreo [ JaxintheBox XianJin Massacre10 ] killed RoofEooooH
+  @ 769745 Ind0 [ TSMBumbus DonMinator RoofEooooH ] killed JaxintheBox
+  @ 774246 TSMBumbus [ DonMinator ] killed XianJin
+  @ 776079 Ind0 [ TSMBumbus DonMinator RoofEooooH ] killed Yoreo
+  @ 778363 Massacre10 [ JaxintheBox Yoreo ] killed Ind0
+  @ 783845 EzXin killed TheOneWhoHunts
+  @ 790297 DonMinator killed Massacre10
+  @ 925724 Yoreo [ JaxintheBox Massacre10 ] killed DonMinator
+  @ 937223 EzXin [ XianJin ] killed TheOneWhoHunts
+  @ 945756 XianJin [ EzXin ] killed RoofEooooH
+  @ 948479 XianJin [ EzXin ] killed TSMBumbus
+  @ 957853 Ind0 [ TSMBumbus ] killed XianJin
+  @ 1036373 TheOneWhoHunts [ TSMBumbus ] killed EzXin
+  @ 1050065 XianJin [ EzXin ] killed TheOneWhoHunts
+  @ 1052675 TSMBumbus [ TheOneWhoHunts RoofEooooH ] killed XianJin
+  @ 1067229 Ind0 killed Massacre10
+  @ 1165714 XianJin [ EzXin JaxintheBox Yoreo Massacre10 ] killed RoofEooooH
+  @ 1170354 Yoreo [ EzXin JaxintheBox XianJin Massacre10 ] killed TSMBumbus
+  @ 1215686 DonMinator killed JaxintheBox
+  @ 1219399 Ind0 [ DonMinator RoofEooooH ] killed Yoreo
+  @ 1242320 EzXin killed TheOneWhoHunts
+  @ 1354406 XianJin killed TheOneWhoHunts
+  @ 1363355 Yoreo [ EzXin JaxintheBox Massacre10 ] killed TSMBumbus
+  @ 1367512 EzXin [ JaxintheBox Yoreo Massacre10 ] killed RoofEooooH
+  @ 1370504 EzXin [ JaxintheBox Yoreo Massacre10 ] killed DonMinator
+  @ 1486057 XianJin killed TheOneWhoHunts
+  @ 1598871 Ind0 [ TheOneWhoHunts RoofEooooH ] killed Yoreo
+  @ 1603832 DonMinator killed XianJin
+  @ 1608712 EzXin [ JaxintheBox Yoreo Massacre10 ] killed TheOneWhoHunts
+  @ 1617907 JaxintheBox [ EzXin Massacre10 ] killed Ind0
+  @ 1620780 Ind0 [ TSMBumbus ] killed JaxintheBox
+  @ 1629363 EzXin [ JaxintheBox Massacre10 ] killed TSMBumbus
+  @ 1629822 DonMinator [ TSMBumbus RoofEooooH ] killed EzXin
+  @ 1715246 TSMBumbus [ Ind0 RoofEooooH ] killed Massacre10
+  @ 1716199 DonMinator killed XianJin
+  @ 1716461 EzXin [ JaxintheBox Yoreo Massacre10 ] killed Ind0
+  @ 1721334 Yoreo [ EzXin JaxintheBox Massacre10 ] killed RoofEooooH
+  @ 1723576 EzXin [ JaxintheBox Yoreo Massacre10 ] killed TheOneWhoHunts
+  @ 1724133 TSMBumbus [ TheOneWhoHunts ] killed JaxintheBox
+  @ 1727157 Yoreo [ EzXin JaxintheBox ] killed TSMBumbus
+  @ 1764639 Yoreo [ EzXin ] killed DonMinator
+  @ 1764727 Ind0 [ DonMinator ] killed Yoreo
+  @ 1770799 Ind0 [ DonMinator RoofEooooH ] killed EzXin
+  @ 1842386 XianJin [ JaxintheBox Yoreo Massacre10 ] killed RoofEooooH
+  @ 1880159 Massacre10 [ EzXin JaxintheBox Yoreo ] killed TSMBumbus
+  @ 1882944 Ind0 killed XianJin
+  @ 1884348 Yoreo [ EzXin JaxintheBox ] killed TheOneWhoHunts
+  @ 1904389 JaxintheBox [ EzXin Yoreo Massacre10 ] killed DonMinator
+  @ 1914204 EzXin [ Yoreo Massacre10 ] killed Ind0
+  @ 2019028 XianJin [ EzXin Massacre10 ] killed RoofEooooH
+  @ 2028322 XianJin [ EzXin Massacre10 ] killed TheOneWhoHunts
+  @ 2036218 XianJin [ EzXin Yoreo Massacre10 ] killed DonMinator
+  @ 2072335 Yoreo [ JaxintheBox XianJin Massacre10 ] killed RoofEooooH
+  @ 2078273 Yoreo [ JaxintheBox Massacre10 ] killed TSMBumbus
+  @ 2082764 TheOneWhoHunts [ TSMBumbus Ind0 RoofEooooH ] killed XianJin
+  @ 2084813 EzXin [ JaxintheBox Yoreo XianJin ] killed TheOneWhoHunts
+  @ 2092609 Massacre10 [ EzXin JaxintheBox Yoreo ] killed DonMinator
+  @ 2096446 Ind0 [ DonMinator TheOneWhoHunts ] killed JaxintheBox
+  @ 2096685 EzXin [ JaxintheBox Yoreo Massacre10 ] killed Ind0
+END
+
+MATCH ID 1778936129
+LOSING TEAM
+  DiamondSparkLing playing champion Katarina
+  someloveu playing champion Riven
+  gtrfd03 playing champion Morgana
+  FFXIIISnow playing champion Graves
+  Jatanasio playing champion Vi
+WINNING TEAM
+  JustPlay playing champion Caitlyn
+  togidono playing champion Blitzcrank
+  l3araka playing champion Karma
+  KentaroOe playing champion Jax
+  Coriolis playing champion Volibear
+EVENTS
+  @ 196324 DiamondSparkLing killed l3araka
+  @ 250973 FFXIIISnow [ gtrfd03 Jatanasio ] killed JustPlay
+  @ 345410 l3araka [ Coriolis ] killed DiamondSparkLing
+  @ 546821 Coriolis [ l3araka ] killed someloveu
+  @ 570816 togidono [ JustPlay Coriolis ] killed DiamondSparkLing
+  @ 607564 FFXIIISnow [ gtrfd03 ] killed togidono
+  @ 615007 Jatanasio [ gtrfd03 FFXIIISnow ] killed JustPlay
+  @ 710578 someloveu [ DiamondSparkLing Jatanasio ] killed togidono
+  @ 726696 Coriolis [ KentaroOe ] killed someloveu
+  @ 743464 FFXIIISnow [ gtrfd03 ] killed JustPlay
+  @ 785021 Coriolis [ togidono l3araka ] killed FFXIIISnow
+  @ 785515 Coriolis [ togidono l3araka ] killed gtrfd03
+  @ 902588 togidono [ l3araka Coriolis ] killed someloveu
+  @ 910801 KentaroOe [ togidono ] killed gtrfd03
+  @ 911255 FFXIIISnow [ someloveu gtrfd03 ] killed l3araka
+  @ 913074 Coriolis [ KentaroOe ] killed DiamondSparkLing
+  @ 937463 JustPlay [ togidono Coriolis ] killed FFXIIISnow
+  @ 1068815 FFXIIISnow [ gtrfd03 Jatanasio ] killed togidono
+  @ 1074671 Coriolis [ togidono l3araka ] killed Jatanasio
+  @ 1078888 JustPlay [ l3araka Coriolis ] killed gtrfd03
+  @ 1086371 Coriolis [ l3araka ] killed FFXIIISnow
+  @ 1103697 KentaroOe killed someloveu
+  @ 1215013 Coriolis [ l3araka KentaroOe ] killed gtrfd03
+  @ 1223823 KentaroOe [ JustPlay Coriolis ] killed someloveu
+  @ 1224571 l3araka [ togidono Coriolis ] killed DiamondSparkLing
+  @ 1288225 KentaroOe [ Coriolis ] killed someloveu
+  @ 1306716 l3araka [ JustPlay ] killed FFXIIISnow
+  @ 1311506 l3araka [ togidono KentaroOe ] killed gtrfd03
+  @ 1328815 l3araka [ togidono ] killed DiamondSparkLing
+  @ 1339912 Jatanasio killed Coriolis
+  @ 1346889 togidono [ JustPlay l3araka KentaroOe ] killed someloveu
+  @ 1350070 JustPlay [ togidono l3araka ] killed gtrfd03
+  @ 1376720 DiamondSparkLing [ Jatanasio ] killed l3araka
+  @ 1387888 DiamondSparkLing [ Jatanasio ] killed JustPlay
+  @ 1464187 Coriolis [ JustPlay ] killed someloveu
+  @ 1469777 Coriolis [ l3araka ] killed FFXIIISnow
+  @ 1499748 DiamondSparkLing killed JustPlay
+  @ 1513669 Coriolis [ togidono l3araka ] killed someloveu
+  @ 1551601 KentaroOe [ togidono l3araka Coriolis ] killed Jatanasio
+  @ 1553699 togidono [ l3araka KentaroOe Coriolis ] killed gtrfd03
+  @ 1565448 l3araka [ KentaroOe Coriolis ] killed someloveu
+END
+
+MATCH ID 1778937369
+LOSING TEAM
+  LesbianRobot playing champion Malzahar
+  Akubakemono playing champion MasterYi
+  pinz38 playing champion Janna
+  Pydima playing champion Nautilus
+  Sephiroths playing champion Vayne
+WINNING TEAM
+  nisanasa playing champion Nidalee
+  DrJackel playing champion Orianna
+  Obi1conknowbe playing champion Jinx
+  TheAlmightyDigRa playing champion Amumu
+  MrNizzy playing champion Zyra
+EVENTS
+  @ 224057 nisanasa killed Akubakemono
+  @ 233372 minion killed MrNizzy
+  @ 243715 Obi1conknowbe [ MrNizzy ] killed Sephiroths
+  @ 453334 Obi1conknowbe [ MrNizzy ] killed Pydima
+  @ 490197 DrJackel killed LesbianRobot
+  @ 613334 Obi1conknowbe [ MrNizzy ] killed Sephiroths
+  @ 617067 Akubakemono killed nisanasa
+  @ 719273 LesbianRobot [ Akubakemono ] killed DrJackel
+  @ 736988 TheAlmightyDigRa [ DrJackel ] killed LesbianRobot
+  @ 748361 MrNizzy [ TheAlmightyDigRa ] killed Akubakemono
+  @ 771090 nisanasa killed Pydima
+  @ 837530 TheAlmightyDigRa [ Obi1conknowbe MrNizzy ] killed pinz38
+  @ 837562 MrNizzy [ Obi1conknowbe TheAlmightyDigRa ] killed Sephiroths
+  @ 856790 Obi1conknowbe [ MrNizzy ] killed Pydima
+  @ 876175 LesbianRobot killed TheAlmightyDigRa
+  @ 876596 DrJackel [ Obi1conknowbe TheAlmightyDigRa MrNizzy ] killed LesbianRobot
+  @ 950430 Akubakemono [ pinz38 Sephiroths ] killed MrNizzy
+  @ 957749 Akubakemono killed DrJackel
+  @ 967196 TheAlmightyDigRa [ DrJackel Obi1conknowbe ] killed Akubakemono
+  @ 973690 nisanasa [ Obi1conknowbe TheAlmightyDigRa ] killed Pydima
+  @ 986111 nisanasa [ Obi1conknowbe TheAlmightyDigRa ] killed LesbianRobot
+  @ 997636 nisanasa killed pinz38
+  @ 1044304 LesbianRobot [ Pydima ] killed Obi1conknowbe
+  @ 1048663 DrJackel [ MrNizzy ] killed LesbianRobot
+  @ 1052841 pinz38 [ LesbianRobot Pydima ] killed MrNizzy
+  @ 1115217 MrNizzy [ DrJackel Obi1conknowbe ] killed pinz38
+  @ 1121744 Obi1conknowbe [ DrJackel MrNizzy ] killed LesbianRobot
+  @ 1194635 pinz38 [ LesbianRobot Pydima ] killed MrNizzy
+  @ 1197012 nisanasa killed Sephiroths
+  @ 1203116 nisanasa [ DrJackel Obi1conknowbe TheAlmightyDigRa MrNizzy ] killed LesbianRobot
+  @ 1209280 nisanasa [ DrJackel Obi1conknowbe MrNizzy ] killed Pydima
+END
+
+MATCH ID 1778940456
+LOSING TEAM
+  enragedflamingo playing champion Morgana
+  DibsOnVayne playing champion Nasus
+  Kheydotzx playing champion MissFortune
+  Eskuhmoh playing champion LeBlanc
+  Cry0F1r3 playing champion Aatrox
+WINNING TEAM
+  Agatroth15862 playing champion Lucian
+  Joshiewah playing champion Sejuani
+  bigslick417 playing champion Tryndamere
+  MatumotoKen playing champion Lissandra
+  Ronnizzy playing champion Blitzcrank
+EVENTS
+  @ 205076 Kheydotzx [ enragedflamingo ] killed Agatroth15862
+  @ 475929 Cry0F1r3 [ Eskuhmoh ] killed MatumotoKen
+  @ 539684 Kheydotzx [ enragedflamingo ] killed Ronnizzy
+  @ 547298 Agatroth15862 killed enragedflamingo
+  @ 548399 Kheydotzx [ enragedflamingo ] killed Agatroth15862
+  @ 589861 bigslick417 killed DibsOnVayne
+  @ 595943 Cry0F1r3 killed bigslick417
+  @ 649996 Agatroth15862 [ MatumotoKen Ronnizzy ] killed Kheydotzx
+  @ 706483 Eskuhmoh killed Joshiewah
+  @ 784062 Agatroth15862 [ Ronnizzy ] killed enragedflamingo
+  @ 784775 Kheydotzx [ enragedflamingo ] killed Ronnizzy
+  @ 787205 bigslick417 killed DibsOnVayne
+  @ 819022 MatumotoKen [ Agatroth15862 Joshiewah ] killed Kheydotzx
+  @ 822759 Cry0F1r3 [ Kheydotzx ] killed MatumotoKen
+  @ 854748 Eskuhmoh [ enragedflamingo Cry0F1r3 ] killed Agatroth15862
+  @ 913631 Kheydotzx [ enragedflamingo ] killed Joshiewah
+  @ 914813 MatumotoKen [ Joshiewah bigslick417 ] killed enragedflamingo
+  @ 915735 bigslick417 [ Agatroth15862 Joshiewah ] killed Kheydotzx
+  @ 915799 Kheydotzx [ enragedflamingo ] killed MatumotoKen
+  @ 937712 Agatroth15862 [ bigslick417 Ronnizzy ] killed Cry0F1r3
+  @ 969019 enragedflamingo killed Ronnizzy
+  @ 1038842 Agatroth15862 [ Joshiewah Ronnizzy ] killed enragedflamingo
+  @ 1065318 Agatroth15862 killed Kheydotzx
+  @ 1073609 bigslick417 killed Cry0F1r3
+  @ 1102321 Eskuhmoh killed Ronnizzy
+  @ 1103036 Joshiewah [ bigslick417 MatumotoKen Ronnizzy ] killed Eskuhmoh
+  @ 1134469 MatumotoKen killed Cry0F1r3
+  @ 1144877 enragedflamingo [ Cry0F1r3 ] killed MatumotoKen
+  @ 1146146 DibsOnVayne killed bigslick417
+  @ 1155173 Kheydotzx [ enragedflamingo ] killed Joshiewah
+  @ 1281364 DibsOnVayne [ enragedflamingo Kheydotzx ] killed bigslick417
+  @ 1284943 Cry0F1r3 killed MatumotoKen
+  @ 1288126 Cry0F1r3 [ enragedflamingo Kheydotzx ] killed Joshiewah
+  @ 1294287 Eskuhmoh killed Ronnizzy
+  @ 1440026 Kheydotzx [ enragedflamingo ] killed MatumotoKen
+  @ 1494048 DibsOnVayne [ Eskuhmoh Cry0F1r3 ] killed bigslick417
+  @ 1505782 DibsOnVayne [ enragedflamingo Kheydotzx Eskuhmoh ] killed Agatroth15862
+  @ 1507764 DibsOnVayne [ Kheydotzx Eskuhmoh Cry0F1r3 ] killed MatumotoKen
+  @ 1508414 Cry0F1r3 [ Kheydotzx ] killed Joshiewah
+  @ 1518990 DibsOnVayne [ enragedflamingo Eskuhmoh Cry0F1r3 ] killed Ronnizzy
+  @ 1635318 DibsOnVayne [ enragedflamingo Kheydotzx ] killed bigslick417
+  @ 1639670 MatumotoKen [ Agatroth15862 ] killed Eskuhmoh
+  @ 1648306 Agatroth15862 [ MatumotoKen Ronnizzy ] killed Cry0F1r3
+  @ 1755156 Joshiewah [ Agatroth15862 bigslick417 MatumotoKen Ronnizzy ] killed enragedflamingo
+  @ 1756228 bigslick417 [ Joshiewah MatumotoKen Ronnizzy ] killed Kheydotzx
+  @ 1757867 Agatroth15862 [ Joshiewah bigslick417 MatumotoKen Ronnizzy ] killed Eskuhmoh
+  @ 1760817 Ronnizzy [ Agatroth15862 Joshiewah bigslick417 MatumotoKen ] killed Cry0F1r3
+  @ 1783910 Joshiewah [ bigslick417 Ronnizzy ] killed DibsOnVayne
+  @ 1812970 Agatroth15862 [ MatumotoKen ] killed Kheydotzx
+  @ 1816049 MatumotoKen [ Agatroth15862 ] killed Eskuhmoh
+  @ 1820457 Cry0F1r3 [ Kheydotzx Eskuhmoh ] killed MatumotoKen
+  @ 1820624 Agatroth15862 [ MatumotoKen ] killed enragedflamingo
+  @ 1826792 Agatroth15862 [ Joshiewah ] killed Cry0F1r3
+  @ 1887569 Eskuhmoh [ DibsOnVayne ] killed Agatroth15862
+  @ 1891473 bigslick417 [ Agatroth15862 Joshiewah Ronnizzy ] killed DibsOnVayne
+  @ 1990162 MatumotoKen killed enragedflamingo
+  @ 2026023 bigslick417 [ Joshiewah MatumotoKen Ronnizzy ] killed DibsOnVayne
+  @ 2066793 Ronnizzy [ Joshiewah MatumotoKen ] killed Eskuhmoh
+  @ 2107916 enragedflamingo [ DibsOnVayne ] killed Joshiewah
+  @ 2109123 DibsOnVayne [ enragedflamingo ] killed MatumotoKen
+  @ 2122301 Eskuhmoh killed bigslick417
+  @ 2124442 Cry0F1r3 [ enragedflamingo DibsOnVayne Kheydotzx ] killed Agatroth15862
+  @ 2332774 Kheydotzx [ enragedflamingo DibsOnVayne ] killed MatumotoKen
+  @ 2332809 bigslick417 killed Eskuhmoh
+  @ 2357036 Joshiewah [ Agatroth15862 ] killed Kheydotzx
+  @ 2384851 Agatroth15862 [ Ronnizzy ] killed enragedflamingo
+  @ 2385723 Agatroth15862 [ Ronnizzy ] killed Cry0F1r3
+  @ 2466845 Eskuhmoh killed MatumotoKen
+  @ 2472781 enragedflamingo [ Kheydotzx Eskuhmoh Cry0F1r3 ] killed bigslick417
+  @ 2480236 Kheydotzx [ enragedflamingo DibsOnVayne ] killed Ronnizzy
+  @ 2627490 MatumotoKen [ Ronnizzy ] killed Kheydotzx
+  @ 2638796 Agatroth15862 killed enragedflamingo
+  @ 2639612 enragedflamingo [ DibsOnVayne Cry0F1r3 ] killed bigslick417
+  @ 2643489 Eskuhmoh killed MatumotoKen
+  @ 2650455 Agatroth15862 [ Joshiewah bigslick417 ] killed DibsOnVayne
+  @ 2652212 Eskuhmoh [ Cry0F1r3 ] killed Ronnizzy
+  @ 2658998 Joshiewah [ Ronnizzy ] killed Cry0F1r3
+  @ 2662166 Joshiewah [ Ronnizzy ] killed Eskuhmoh
+END
+
+MATCH ID 1778942262
+LOSING TEAM
+  StarrFish playing champion Caitlyn
+  lSpaceYungJook playing champion Zac
+  DangeRussWiIson playing champion Thresh
+  Xakari playing champion LeBlanc
+  Swerdfeger playing champion Garen
+WINNING TEAM
+  200QBWOJIUAFK playing champion LeeSin
+  OOSalty playing champion Ryze
+  Schaibs playing champion Sivir
+  GODVA playing champion Ahri
+  CaptainFizz playing champion Janna
+EVENTS
+  @ 59203 StarrFish [ lSpaceYungJook DangeRussWiIson Xakari ] killed 200QBWOJIUAFK
+  @ 147965 200QBWOJIUAFK [ Schaibs GODVA ] killed DangeRussWiIson
+  @ 294808 DangeRussWiIson [ StarrFish ] killed CaptainFizz
+  @ 318844 200QBWOJIUAFK [ Schaibs ] killed StarrFish
+  @ 327574 Schaibs [ 200QBWOJIUAFK ] killed DangeRussWiIson
+  @ 353012 Xakari killed GODVA
+  @ 355889 GODVA killed Xakari
+  @ 429736 Schaibs [ 200QBWOJIUAFK CaptainFizz ] killed DangeRussWiIson
+  @ 442746 Schaibs [ OOSalty CaptainFizz ] killed StarrFish
+  @ 443292 GODVA killed Xakari
+  @ 461928 lSpaceYungJook killed GODVA
+  @ 559277 StarrFish [ DangeRussWiIson ] killed Schaibs
+  @ 586640 GODVA killed Xakari
+  @ 591220 StarrFish [ DangeRussWiIson ] killed CaptainFizz
+  @ 594879 lSpaceYungJook [ Xakari ] killed GODVA
+  @ 595349 StarrFish [ DangeRussWiIson ] killed 200QBWOJIUAFK
+  @ 627999 OOSalty killed Swerdfeger
+  @ 631886 lSpaceYungJook [ Swerdfeger ] killed OOSalty
+  @ 776561 StarrFish killed Schaibs
+  @ 778606 StarrFish killed CaptainFizz
+  @ 781907 StarrFish killed 200QBWOJIUAFK
+  @ 836972 Schaibs [ OOSalty ] killed DangeRussWiIson
+  @ 853058 GODVA [ OOSalty CaptainFizz ] killed Xakari
+  @ 855185 lSpaceYungJook [ Xakari ] killed OOSalty
+  @ 857695 GODVA [ 200QBWOJIUAFK OOSalty CaptainFizz ] killed lSpaceYungJook
+  @ 988746 200QBWOJIUAFK [ OOSalty ] killed Swerdfeger
+  @ 1023137 StarrFish [ Xakari ] killed CaptainFizz
+  @ 1072561 CaptainFizz [ OOSalty Schaibs GODVA ] killed Xakari
+  @ 1091887 OOSalty [ 200QBWOJIUAFK Schaibs ] killed DangeRussWiIson
+  @ 1097536 Swerdfeger [ StarrFish lSpaceYungJook DangeRussWiIson ] killed 200QBWOJIUAFK
+  @ 1117321 lSpaceYungJook [ StarrFish ] killed CaptainFizz
+  @ 1119950 Schaibs [ OOSalty CaptainFizz ] killed Swerdfeger
+  @ 1120703 lSpaceYungJook [ StarrFish Swerdfeger ] killed Schaibs
+  @ 1238267 Swerdfeger [ StarrFish DangeRussWiIson Xakari ] killed 200QBWOJIUAFK
+  @ 1256685 GODVA [ Schaibs CaptainFizz ] killed Xakari
+  @ 1258963 Xakari [ DangeRussWiIson ] killed GODVA
+  @ 1262643 StarrFish [ DangeRussWiIson ] killed Schaibs
+  @ 1397905 StarrFish [ lSpaceYungJook DangeRussWiIson ] killed CaptainFizz
+  @ 1407641 DangeRussWiIson [ StarrFish lSpaceYungJook Xakari ] killed GODVA
+  @ 1416554 OOSalty [ 200QBWOJIUAFK Schaibs ] killed StarrFish
+  @ 1422399 OOSalty [ 200QBWOJIUAFK Schaibs ] killed DangeRussWiIson
+  @ 1425673 Schaibs [ 200QBWOJIUAFK OOSalty ] killed lSpaceYungJook
+  @ 1428466 200QBWOJIUAFK [ Schaibs ] killed Swerdfeger
+  @ 1570343 OOSalty [ 200QBWOJIUAFK Schaibs GODVA CaptainFizz ] killed DangeRussWiIson
+  @ 1585445 Xakari [ StarrFish ] killed GODVA
+  @ 1645948 DangeRussWiIson [ StarrFish lSpaceYungJook Xakari ] killed 200QBWOJIUAFK
+  @ 1653573 GODVA [ 200QBWOJIUAFK Schaibs ] killed DangeRussWiIson
+  @ 1777492 Xakari [ StarrFish lSpaceYungJook DangeRussWiIson ] killed OOSalty
+  @ 1780773 lSpaceYungJook [ StarrFish DangeRussWiIson Xakari ] killed CaptainFizz
+  @ 1787123 StarrFish [ DangeRussWiIson Xakari ] killed GODVA
+  @ 1844790 OOSalty [ 200QBWOJIUAFK Schaibs CaptainFizz ] killed StarrFish
+  @ 1846805 Schaibs [ 200QBWOJIUAFK CaptainFizz ] killed lSpaceYungJook
+  @ 1856154 OOSalty [ CaptainFizz ] killed DangeRussWiIson
+  @ 1884202 Schaibs [ 200QBWOJIUAFK OOSalty GODVA CaptainFizz ] killed Swerdfeger
+  @ 1886730 200QBWOJIUAFK [ OOSalty Schaibs GODVA CaptainFizz ] killed Xakari
+  @ 1887573 Swerdfeger killed CaptainFizz
+  @ 1972434 GODVA [ 200QBWOJIUAFK ] killed Xakari
+  @ 1980046 Schaibs [ 200QBWOJIUAFK OOSalty GODVA CaptainFizz ] killed lSpaceYungJook
+  @ 2045194 GODVA [ 200QBWOJIUAFK OOSalty ] killed DangeRussWiIson
+  @ 2047988 GODVA [ OOSalty ] killed Xakari
+  @ 2053530 StarrFish [ lSpaceYungJook DangeRussWiIson Xakari Swerdfeger ] killed GODVA
+  @ 2119312 OOSalty [ 200QBWOJIUAFK CaptainFizz ] killed StarrFish
+  @ 2130852 200QBWOJIUAFK [ OOSalty CaptainFizz ] killed Swerdfeger
+  @ 2149256 GODVA [ 200QBWOJIUAFK OOSalty CaptainFizz ] killed DangeRussWiIson
+  @ 2281529 OOSalty [ 200QBWOJIUAFK Schaibs CaptainFizz ] killed StarrFish
+  @ 2291311 Swerdfeger [ StarrFish lSpaceYungJook DangeRussWiIson Xakari ] killed OOSalty
+  @ 2291969 Schaibs [ 200QBWOJIUAFK OOSalty CaptainFizz ] killed lSpaceYungJook
+  @ 2303588 GODVA [ 200QBWOJIUAFK OOSalty Schaibs ] killed Xakari
+END
+
+MATCH ID 1778933327
+WINNING TEAM
+  AquaNova playing champion Ahri
+  Bizu playing champion Sivir
+  guardianForceX playing champion Malphite
+  Hebs playing champion Fiddlesticks
+  ZeLLBaby playing champion Thresh
+LOSING TEAM
+  ERAQAQAQAR playing champion Ezreal
+  LaKeA playing champion Blitzcrank
+  SauceShooter playing champion Sion
+  JrBatman playing champion Heimerdinger
+  D0odleBob playing champion Nidalee
+EVENTS
+  @ 137608 minion killed SauceShooter
+  @ 403877 ERAQAQAQAR [ LaKeA ] killed ZeLLBaby
+  @ 416803 ERAQAQAQAR [ LaKeA ] killed Bizu
+  @ 517774 Bizu [ ZeLLBaby ] killed LaKeA
+  @ 549505 ERAQAQAQAR [ D0odleBob ] killed ZeLLBaby
+  @ 589860 ERAQAQAQAR [ LaKeA ] killed Bizu
+  @ 658355 Bizu [ Hebs ZeLLBaby ] killed ERAQAQAQAR
+  @ 662865 SauceShooter [ ERAQAQAQAR LaKeA ] killed ZeLLBaby
+  @ 666234 Hebs [ Bizu ZeLLBaby ] killed LaKeA
+  @ 672969 SauceShooter [ LaKeA ] killed Bizu
+  @ 775776 ERAQAQAQAR [ LaKeA ] killed ZeLLBaby
+  @ 790550 guardianForceX killed SauceShooter
+  @ 825128 D0odleBob killed guardianForceX
+  @ 840552 Hebs [ Bizu ZeLLBaby ] killed ERAQAQAQAR
+  @ 844312 Bizu [ Hebs ZeLLBaby ] killed LaKeA
+  @ 909688 D0odleBob [ SauceShooter ] killed guardianForceX
+  @ 939509 SauceShooter [ D0odleBob ] killed Hebs
+  @ 977789 ERAQAQAQAR [ LaKeA JrBatman ] killed ZeLLBaby
+  @ 984337 ERAQAQAQAR [ LaKeA SauceShooter JrBatman ] killed Bizu
+  @ 1004076 D0odleBob [ ERAQAQAQAR SauceShooter ] killed Hebs
+  @ 1065499 guardianForceX [ ZeLLBaby ] killed D0odleBob
+  @ 1076176 guardianForceX [ ZeLLBaby ] killed LaKeA
+  @ 1085347 AquaNova [ guardianForceX ZeLLBaby ] killed ERAQAQAQAR
+  @ 1123644 D0odleBob killed guardianForceX
+  @ 1194651 D0odleBob [ LaKeA SauceShooter JrBatman ] killed AquaNova
+  @ 1195330 ERAQAQAQAR [ LaKeA SauceShooter ] killed Bizu
+  @ 1195720 guardianForceX [ AquaNova Hebs ] killed JrBatman
+  @ 1202967 D0odleBob [ ERAQAQAQAR SauceShooter JrBatman ] killed Hebs
+  @ 1206441 ERAQAQAQAR [ SauceShooter D0odleBob ] killed ZeLLBaby
+  @ 1243193 D0odleBob [ ERAQAQAQAR ] killed guardianForceX
+  @ 1246243 AquaNova [ guardianForceX ] killed D0odleBob
+  @ 1257950 AquaNova [ Bizu ] killed SauceShooter
+  @ 1312851 guardianForceX [ AquaNova ZeLLBaby ] killed JrBatman
+  @ 1316507 JrBatman [ D0odleBob ] killed AquaNova
+  @ 1335978 LaKeA [ ERAQAQAQAR D0odleBob ] killed Hebs
+  @ 1375168 ERAQAQAQAR [ LaKeA ] killed ZeLLBaby
+  @ 1377833 AquaNova [ ZeLLBaby ] killed ERAQAQAQAR
+  @ 1378816 AquaNova killed LaKeA
+  @ 1478572 AquaNova [ guardianForceX Hebs ZeLLBaby ] killed JrBatman
+  @ 1489109 AquaNova [ guardianForceX ZeLLBaby ] killed LaKeA
+  @ 1503322 guardianForceX [ Hebs ] killed D0odleBob
+  @ 1588620 D0odleBob [ ERAQAQAQAR LaKeA ] killed Bizu
+  @ 1593749 guardianForceX [ AquaNova Bizu ZeLLBaby ] killed ERAQAQAQAR
+  @ 1605133 AquaNova [ guardianForceX ZeLLBaby ] killed LaKeA
+  @ 1625439 JrBatman [ SauceShooter ] killed ZeLLBaby
+  @ 1629899 Hebs [ AquaNova ] killed JrBatman
+  @ 1635656 Hebs [ AquaNova guardianForceX ZeLLBaby ] killed SauceShooter
+  @ 1691760 AquaNova [ Bizu guardianForceX ZeLLBaby ] killed ERAQAQAQAR
+  @ 1714309 D0odleBob [ LaKeA ] killed Hebs
+  @ 1730430 AquaNova [ Bizu guardianForceX ] killed LaKeA
+  @ 1790450 Hebs [ ZeLLBaby ] killed JrBatman
+  @ 1806803 guardianForceX [ AquaNova ] killed ERAQAQAQAR
+  @ 1817858 AquaNova [ guardianForceX Hebs ZeLLBaby ] killed LaKeA
+  @ 1853067 AquaNova [ ZeLLBaby ] killed D0odleBob
+  @ 1884388 Bizu [ AquaNova Hebs ZeLLBaby ] killed JrBatman
+  @ 1886547 SauceShooter [ ERAQAQAQAR ] killed ZeLLBaby
+  @ 1888295 AquaNova [ Bizu Hebs ZeLLBaby ] killed ERAQAQAQAR
+  @ 1891648 guardianForceX [ AquaNova Bizu Hebs ZeLLBaby ] killed SauceShooter
+  @ 1963573 Hebs [ AquaNova ZeLLBaby ] killed LaKeA
+  @ 1966311 Hebs [ AquaNova ZeLLBaby ] killed ERAQAQAQAR
+  @ 1971636 Bizu [ AquaNova Hebs ZeLLBaby ] killed SauceShooter
+  @ 1973966 SauceShooter [ D0odleBob ] killed Hebs
+  @ 1974836 guardianForceX [ AquaNova Bizu ZeLLBaby ] killed D0odleBob
+  @ 2010091 guardianForceX killed JrBatman
+  @ 2012107 JrBatman killed guardianForceX
+  @ 2058054 D0odleBob killed Bizu
+  @ 2059793 D0odleBob [ ERAQAQAQAR ] killed ZeLLBaby
+  @ 2123001 ERAQAQAQAR [ LaKeA D0odleBob ] killed AquaNova
+  @ 2126390 guardianForceX [ Hebs ] killed JrBatman
+  @ 2128573 ERAQAQAQAR [ SauceShooter JrBatman ] killed Hebs
+  @ 2135434 D0odleBob [ ERAQAQAQAR SauceShooter ] killed guardianForceX
+  @ 2141506 Bizu [ ZeLLBaby ] killed LaKeA
+  @ 2145476 ERAQAQAQAR [ SauceShooter D0odleBob ] killed Bizu
+  @ 2148170 ERAQAQAQAR [ LaKeA SauceShooter D0odleBob ] killed ZeLLBaby
+  @ 2221245 guardianForceX [ Hebs ] killed JrBatman
+  @ 2222328 AquaNova [ Bizu guardianForceX Hebs ] killed LaKeA
+  @ 2232646 AquaNova killed ERAQAQAQAR
+  @ 2238097 Hebs [ Bizu guardianForceX ZeLLBaby ] killed SauceShooter
+  @ 2307884 JrBatman [ ERAQAQAQAR SauceShooter ] killed ZeLLBaby
+  @ 2317585 D0odleBob [ ERAQAQAQAR ] killed Hebs
+  @ 2451872 AquaNova [ Bizu ] killed ERAQAQAQAR
+  @ 2458092 AquaNova [ Bizu ZeLLBaby ] killed LaKeA
+  @ 2467680 guardianForceX [ Bizu Hebs ] killed JrBatman
+  @ 2468556 Bizu [ ZeLLBaby ] killed SauceShooter
+  @ 2468858 JrBatman [ D0odleBob ] killed guardianForceX
+  @ 2472564 D0odleBob [ JrBatman ] killed Hebs
+  @ 2501189 AquaNova killed D0odleBob
+  @ 2570674 JrBatman [ ERAQAQAQAR LaKeA ] killed AquaNova
+  @ 2608842 guardianForceX [ Bizu Hebs ] killed LaKeA
+  @ 2617280 Bizu [ guardianForceX Hebs ZeLLBaby ] killed ERAQAQAQAR
+  @ 2617622 JrBatman [ ERAQAQAQAR SauceShooter ] killed ZeLLBaby
+  @ 2652039 guardianForceX [ Hebs ] killed SauceShooter
+  @ 2713508 AquaNova [ guardianForceX ] killed ERAQAQAQAR
+  @ 2728904 AquaNova killed D0odleBob
+  @ 2744650 Hebs [ AquaNova ZeLLBaby ] killed LaKeA
+  @ 2746255 Hebs [ AquaNova Bizu ZeLLBaby ] killed SauceShooter
+END
+
+MATCH ID 1779004846
+LOSING TEAM
+  xBrutality playing champion Evelynn
+  uTPTrollKingSin playing champion Corki
+  ItsMeYourMom playing champion LeBlanc
+  XLargeBIGNoob playing champion Fiora
+  PittL playing champion Nami
+WINNING TEAM
+  ChinatownStreet playing champion Riven
+  DibsOnVayne playing champion Vayne
+  KanchoLegion playing champion Annie
+  Conn3ction playing champion Janna
+  Happypig12 playing champion Zac
+EVENTS
+  @ 175343 ChinatownStreet killed XLargeBIGNoob
+  @ 176830 XLargeBIGNoob killed ChinatownStreet
+  @ 182399 minion killed xBrutality
+  @ 227989 ItsMeYourMom killed KanchoLegion
+  @ 409183 XLargeBIGNoob killed ChinatownStreet
+  @ 414598 ItsMeYourMom killed KanchoLegion
+  @ 478935 ChinatownStreet killed XLargeBIGNoob
+  @ 490713 ChinatownStreet killed xBrutality
+  @ 532820 DibsOnVayne [ Conn3ction Happypig12 ] killed PittL
+  @ 709450 ChinatownStreet [ Happypig12 ] killed XLargeBIGNoob
+  @ 752452 ItsMeYourMom killed KanchoLegion
+  @ 753423 uTPTrollKingSin [ PittL ] killed Conn3ction
+  @ 853649 DibsOnVayne [ Conn3ction Happypig12 ] killed xBrutality
+  @ 857151 Conn3ction [ DibsOnVayne Happypig12 ] killed PittL
+  @ 941883 PittL [ xBrutality ItsMeYourMom ] killed KanchoLegion
+  @ 991442 DibsOnVayne [ Conn3ction Happypig12 ] killed PittL
+  @ 1078306 ChinatownStreet [ KanchoLegion Conn3ction ] killed ItsMeYourMom
+  @ 1080389 xBrutality [ uTPTrollKingSin PittL ] killed DibsOnVayne
+  @ 1234162 ChinatownStreet [ KanchoLegion Conn3ction ] killed XLargeBIGNoob
+  @ 1243143 ChinatownStreet [ DibsOnVayne KanchoLegion Conn3ction Happypig12 ] killed ItsMeYourMom
+  @ 1295532 DibsOnVayne [ Conn3ction Happypig12 ] killed uTPTrollKingSin
+  @ 1297613 DibsOnVayne [ ChinatownStreet KanchoLegion Conn3ction Happypig12 ] killed xBrutality
+  @ 1300703 ChinatownStreet [ DibsOnVayne KanchoLegion Conn3ction ] killed ItsMeYourMom
+  @ 1302523 XLargeBIGNoob [ xBrutality ItsMeYourMom PittL ] killed Conn3ction
+  @ 1307073 ChinatownStreet [ DibsOnVayne KanchoLegion Conn3ction Happypig12 ] killed XLargeBIGNoob
+  @ 1443614 Happypig12 killed ItsMeYourMom
+  @ 1458677 uTPTrollKingSin [ xBrutality ItsMeYourMom PittL ] killed Happypig12
+  @ 1460492 ChinatownStreet [ KanchoLegion Conn3ction ] killed XLargeBIGNoob
+  @ 1466113 ChinatownStreet [ KanchoLegion Conn3ction Happypig12 ] killed xBrutality
+  @ 1468643 ChinatownStreet [ KanchoLegion Conn3ction Happypig12 ] killed PittL
+END
+
+MATCH ID 1779005298
+LOSING TEAM
+  Flyer02 playing champion Riven
+  Rukous playing champion Ziggs
+  JMoneyPro playing champion Vayne
+  StayAwesome playing champion XinZhao
+  Elisaberry playing champion Annie
+WINNING TEAM
+  DrJackel playing champion Ezreal
+  SoundArc playing champion Volibear
+  MrNizzy playing champion Yasuo
+  FlashFeD playing champion Janna
+  Aykachan playing champion Jax
+EVENTS
+  @ 317338 SoundArc [ Aykachan ] killed Flyer02
+  @ 546974 SoundArc killed StayAwesome
+  @ 551553 FlashFeD [ DrJackel SoundArc ] killed Elisaberry
+  @ 623295 Aykachan [ DrJackel FlashFeD ] killed Elisaberry
+  @ 671534 MrNizzy killed Rukous
+  @ 673250 MrNizzy [ Aykachan ] killed StayAwesome
+  @ 724207 SoundArc [ DrJackel FlashFeD ] killed JMoneyPro
+  @ 742461 DrJackel [ SoundArc FlashFeD ] killed Rukous
+  @ 805245 Rukous [ Elisaberry ] killed MrNizzy
+  @ 849609 Rukous [ Flyer02 StayAwesome ] killed Aykachan
+  @ 885293 DrJackel [ FlashFeD ] killed Elisaberry
+  @ 890547 MrNizzy killed StayAwesome
+  @ 892528 Aykachan killed Flyer02
+  @ 914749 SoundArc [ DrJackel FlashFeD ] killed JMoneyPro
+  @ 917255 SoundArc [ DrJackel FlashFeD ] killed Rukous
+  @ 986171 MrNizzy [ DrJackel ] killed Elisaberry
+  @ 987053 Rukous [ JMoneyPro Elisaberry ] killed MrNizzy
+  @ 997719 DrJackel [ MrNizzy Aykachan ] killed Rukous
+  @ 1007806 Aykachan [ DrJackel ] killed JMoneyPro
+  @ 1012439 DrJackel [ FlashFeD Aykachan ] killed StayAwesome
+  @ 1109431 MrNizzy [ DrJackel ] killed Rukous
+  @ 1200708 MrNizzy [ SoundArc FlashFeD Aykachan ] killed StayAwesome
+  @ 1202119 SoundArc [ MrNizzy FlashFeD Aykachan ] killed Elisaberry
+  @ 1211717 Rukous killed MrNizzy
+END
+
+MATCH ID 1779006394
+LOSING TEAM
+  guardianForceX playing champion Zed
+  HazeElJefe playing champion Gragas
+  InfernalBudgie playing champion Morgana
+  ThelastDestiny playing champion Sejuani
+  82342421 playing champion Draven
+WINNING TEAM
+  AquaNova playing champion Ahri
+  jockerZK playing champion Graves
+  Calliee playing champion Lulu
+  ChaffererEr playing champion Pantheon
+  ImyourMaryJane playing champion Riven
+EVENTS
+  @ 224368 guardianForceX killed AquaNova
+  @ 290515 ImyourMaryJane [ ChaffererEr ] killed ThelastDestiny
+  @ 388872 Calliee [ jockerZK ] killed 82342421
+  @ 426908 ImyourMaryJane killed HazeElJefe
+  @ 497533 AquaNova killed guardianForceX
+  @ 533608 jockerZK [ Calliee ] killed 82342421
+  @ 556264 jockerZK [ Calliee ChaffererEr ] killed InfernalBudgie
+  @ 571523 guardianForceX [ HazeElJefe InfernalBudgie ThelastDestiny ] killed ChaffererEr
+  @ 601631 Calliee [ AquaNova jockerZK ] killed guardianForceX
+  @ 710705 ImyourMaryJane killed HazeElJefe
+  @ 736675 guardianForceX killed AquaNova
+  @ 774005 jockerZK [ Calliee ] killed ThelastDestiny
+  @ 783023 ChaffererEr [ Calliee ] killed 82342421
+  @ 875119 ImyourMaryJane [ AquaNova Calliee ] killed HazeElJefe
+  @ 892712 jockerZK [ AquaNova ImyourMaryJane ] killed InfernalBudgie
+  @ 948303 ImyourMaryJane [ jockerZK Calliee ] killed guardianForceX
+  @ 1086725 Calliee [ jockerZK ChaffererEr ] killed 82342421
+  @ 1087304 ImyourMaryJane killed InfernalBudgie
+  @ 1110576 AquaNova [ ImyourMaryJane ] killed ThelastDestiny
+  @ 1149092 ThelastDestiny [ guardianForceX HazeElJefe InfernalBudgie ] killed ImyourMaryJane
+  @ 1157164 guardianForceX [ HazeElJefe InfernalBudgie ThelastDestiny 82342421 ] killed ChaffererEr
+  @ 1234431 ImyourMaryJane killed guardianForceX
+  @ 1278628 ChaffererEr [ Calliee ImyourMaryJane ] killed InfernalBudgie
+END
+
+MATCH ID 1778979165
+WINNING TEAM
+  Schaibs playing champion Sivir
+  FucKing playing champion Annie
+  Yoreo playing champion Rengar
+  S2MaRtin playing champion Maokai
+  Coriolis playing champion Volibear
+LOSING TEAM
+  Ramzyisbad playing champion Nami
+  AhriComming playing champion Vayne
+  Anhmeister playing champion Lissandra
+  IbTaeyeon playing champion Amumu
+  LifeForAiur playing champion Irelia
+EVENTS
+  @ 176205 Yoreo killed LifeForAiur
+  @ 213764 Anhmeister killed Coriolis
+  @ 352238 AhriComming [ Ramzyisbad ] killed FucKing
+  @ 355215 Schaibs [ FucKing ] killed Ramzyisbad
+  @ 355571 Schaibs [ FucKing ] killed AhriComming
+  @ 437717 FucKing [ Schaibs ] killed Ramzyisbad
+  @ 502825 LifeForAiur killed Coriolis
+  @ 503052 Yoreo [ Coriolis ] killed LifeForAiur
+  @ 533298 Anhmeister killed Yoreo
+  @ 534431 Schaibs [ FucKing ] killed AhriComming
+  @ 537832 Schaibs [ FucKing ] killed Ramzyisbad
+  @ 640265 AhriComming [ Ramzyisbad ] killed Schaibs
+  @ 700255 IbTaeyeon [ Ramzyisbad AhriComming ] killed FucKing
+  @ 706070 Schaibs [ S2MaRtin ] killed AhriComming
+  @ 708603 Schaibs [ S2MaRtin ] killed Ramzyisbad
+  @ 713667 S2MaRtin [ Schaibs FucKing Coriolis ] killed IbTaeyeon
+  @ 716135 Yoreo killed Anhmeister
+  @ 780473 Ramzyisbad [ AhriComming Anhmeister IbTaeyeon ] killed FucKing
+  @ 854169 Schaibs [ FucKing ] killed Ramzyisbad
+  @ 886540 LifeForAiur [ Anhmeister IbTaeyeon ] killed Coriolis
+  @ 890363 Yoreo [ S2MaRtin ] killed LifeForAiur
+  @ 897934 IbTaeyeon [ LifeForAiur ] killed Yoreo
+  @ 1028766 S2MaRtin [ Schaibs FucKing ] killed AhriComming
+  @ 1030190 IbTaeyeon [ Ramzyisbad AhriComming ] killed FucKing
+  @ 1031308 Schaibs [ FucKing Yoreo S2MaRtin Coriolis ] killed IbTaeyeon
+  @ 1036455 LifeForAiur [ Ramzyisbad Anhmeister IbTaeyeon ] killed Yoreo
+  @ 1037595 LifeForAiur [ Ramzyisbad Anhmeister IbTaeyeon ] killed Schaibs
+  @ 1039319 S2MaRtin [ Schaibs Yoreo Coriolis ] killed LifeForAiur
+  @ 1116065 S2MaRtin [ Schaibs Yoreo ] killed Anhmeister
+  @ 1122704 Schaibs [ FucKing Yoreo S2MaRtin ] killed IbTaeyeon
+  @ 1136714 Yoreo killed Ramzyisbad
+  @ 1141203 Yoreo [ Schaibs ] killed AhriComming
+  @ 1190363 Anhmeister [ IbTaeyeon ] killed Coriolis
+  @ 1199705 IbTaeyeon [ Ramzyisbad ] killed FucKing
+  @ 1218375 S2MaRtin [ Yoreo ] killed LifeForAiur
+  @ 1327164 Schaibs [ FucKing Coriolis ] killed Anhmeister
+  @ 1334317 Schaibs [ FucKing S2MaRtin Coriolis ] killed IbTaeyeon
+  @ 1334816 Yoreo [ Coriolis ] killed AhriComming
+  @ 1338699 Yoreo [ Schaibs FucKing S2MaRtin ] killed Ramzyisbad
+  @ 1408890 Anhmeister [ LifeForAiur ] killed Schaibs
+  @ 1413514 S2MaRtin [ Schaibs FucKing ] killed Anhmeister
+  @ 1416276 Anhmeister killed FucKing
+  @ 1435682 Yoreo killed AhriComming
+  @ 1443309 Coriolis [ Yoreo ] killed IbTaeyeon
+  @ 1463393 S2MaRtin killed LifeForAiur
+  @ 1478549 Coriolis [ S2MaRtin ] killed Ramzyisbad
+  @ 1483936 S2MaRtin [ Coriolis ] killed Anhmeister
+  @ 1555801 Yoreo killed AhriComming
+  @ 1560412 Schaibs [ Yoreo ] killed Ramzyisbad
+  @ 1562558 Ramzyisbad killed Schaibs
+  @ 1593231 S2MaRtin [ FucKing Yoreo Coriolis ] killed Anhmeister
+  @ 1594971 Yoreo [ FucKing S2MaRtin Coriolis ] killed IbTaeyeon
+  @ 1617351 AhriComming [ Ramzyisbad LifeForAiur ] killed FucKing
+  @ 1634265 AhriComming [ Ramzyisbad LifeForAiur ] killed S2MaRtin
+  @ 1635448 Schaibs [ S2MaRtin ] killed AhriComming
+  @ 1641560 Yoreo [ Schaibs S2MaRtin ] killed LifeForAiur
+  @ 1656703 Yoreo killed Ramzyisbad
+  @ 1657776 Ramzyisbad killed Yoreo
+  @ 1697332 IbTaeyeon killed Schaibs
+  @ 1714627 Coriolis killed Anhmeister
+  @ 1717879 FucKing [ Coriolis ] killed LifeForAiur
+  @ 1771258 Coriolis [ FucKing Yoreo S2MaRtin ] killed AhriComming
+  @ 1774391 IbTaeyeon [ Ramzyisbad AhriComming LifeForAiur ] killed Coriolis
+  @ 1776668 Schaibs [ FucKing Yoreo S2MaRtin Coriolis ] killed LifeForAiur
+  @ 1785134 Yoreo [ Schaibs FucKing S2MaRtin ] killed Anhmeister
+  @ 1785735 Yoreo [ Schaibs FucKing S2MaRtin Coriolis ] killed IbTaeyeon
+  @ 1787290 Yoreo [ Schaibs S2MaRtin ] killed Ramzyisbad
+  @ 1816670 Yoreo [ S2MaRtin ] killed AhriComming
+END
+

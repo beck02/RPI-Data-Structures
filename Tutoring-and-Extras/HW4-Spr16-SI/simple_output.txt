@@ -1,0 +1,11 @@
+Recipe for salad added
+2 ingredients added to kitchen
+To make salad, mix together:
+  1 unit of lettuce
+  2 units of tomatoes
+Made salad
+Cannot make salad, need to buy:
+  1 unit of tomatoes
+In the kitchen:
+  1 unit of tomatoes
+  3 units of lettuce

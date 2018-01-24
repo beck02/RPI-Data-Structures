@@ -1,0 +1,24 @@
+7 Polygon(s):  brown chartruese cyan green purple red silver
+7 Triangle(s):  brown chartruese cyan green purple red silver
+4 IsoscelesTriangle(s):  green purple red silver
+2 RightTriangle(s):  cyan green
+1 IsoscelesRightTriangle(s):  green
+2 ObtuseTriangle(s):  chartruese silver
+1 IsoscelesObtuseTriangle(s):  silver
+1 EquilateralTriangle(s):  red
+0 Quadrilateral(s): 
+0 Trapezoid(s): 
+0 Kite(s): 
+0 Arrow(s): 
+0 Parallelogram(s): 
+0 IsoscelesTrapezoid(s): 
+0 Rhombus(s): 
+0 Rectangle(s): 
+0 Square(s): 
+1 Shape(s) with all equal sides:  red
+1 Shape(s) with all equal angles:  red
+2 Shape(s) with a right angle:  cyan green
+2 Shape(s) with an obtuse angle:  chartruese silver
+7 Shape(s) with an acute angle:  brown chartruese cyan green purple red silver
+7 Convex Shape(s):  brown chartruese cyan green purple red silver
+0 Concave Shape(s): 

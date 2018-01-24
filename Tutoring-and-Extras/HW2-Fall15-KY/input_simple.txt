@@ -1,0 +1,51 @@
+MATCH ID 111111
+WINNING TEAM
+  EzXin playing champion Maokai
+  JaxintheBox playing champion Amumu
+  Yoreo playing champion Sivir
+  XianJin playing champion Zed
+  Massacre10 playing champion Thresh
+LOSING TEAM
+  TSMBumbus playing champion Volibear
+  Ind0 playing champion LeBlanc
+  DonMinator playing champion Vayne
+  TheOneWhoHunts playing champion XinZhao
+  RoofEooooH playing champion Fiddlesticks
+EVENTS
+  @ 215281 Massacre10 killed DonMinator
+  @ 289738 EzXin killed TheOneWhoHunts
+  @ 393210 TheOneWhoHunts killed EzXin
+  @ 409108 Yoreo killed DonMinator
+  @ 414906 XianJin killed Ind0
+  @ 418235 Yoreo killed RoofEooooH
+  @ 474454 TheOneWhoHunts killed EzXin
+  @ 479423 EzXin killed TheOneWhoHunts
+  @ 509689 XianJin killed TSMBumbus
+  @ 583827 Ind0 killed XianJin
+END
+
+MATCH ID 222222
+WINNING TEAM
+  AquaNova playing champion Ahri
+  Bizu playing champion Sivir
+  guardianForceX playing champion Malphite
+  Hebs playing champion Fiddlesticks
+  ZeLLBaby playing champion Thresh
+LOSING TEAM
+  ERAQAQAQAR playing champion Ezreal
+  LaKeA playing champion Blitzcrank
+  SauceShooter playing champion Sion
+  JrBatman playing champion Heimerdinger
+  D0odleBob playing champion Nidalee
+EVENTS
+  @ 403877 ERAQAQAQAR killed ZeLLBaby
+  @ 416803 ERAQAQAQAR killed Bizu
+  @ 517774 Bizu killed LaKeA
+  @ 549505 ERAQAQAQAR killed ZeLLBaby
+  @ 589860 ERAQAQAQAR killed Bizu
+  @ 658355 Bizu killed ERAQAQAQAR
+  @ 662865 SauceShooter killed ZeLLBaby
+  @ 666234 Hebs killed LaKeA
+  @ 672969 SauceShooter killed Bizu
+  @ 775776 ERAQAQAQAR killed ZeLLBaby
+END

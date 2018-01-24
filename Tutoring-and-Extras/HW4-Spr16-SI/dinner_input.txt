@@ -1,0 +1,70 @@
+r cake
+4 butter
+2 sugar
+3 eggs
+2 vanilla
+2 buttermilk
+4 flour
+2 baking_powder
+3 chocolate
+1 salt
+0
+
+r cookies
+2 butter
+1 sugar
+2 eggs
+2 vanilla
+3 flour
+1 salt
+0
+
+r quiche
+1 tomatoes
+4 eggs
+2 salt
+1 spinach
+1 cheese
+0
+
+r salad
+2 tomatoes
+1 lettuce
+0
+
+a
+5 butter
+2 sugar
+12 eggs
+400 salt
+6 flour
+2 spinach
+3 lettuce
+5 tomatoes
+100 baking_powder
+6 buttermilk
+6 chocolate
+20 vanilla
+3 cheese
+0
+
+k
+s
+d
+
+m cake
+m quiche
+m salad
+
+k
+
+m cookies
+s
+d
+
+m quiche
+
+k
+
+s
+d

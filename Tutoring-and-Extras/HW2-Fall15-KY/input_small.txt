@@ -1,0 +1,151 @@
+MATCH ID 1778973240
+LOSING TEAM
+  iTcnRKaneki playing champion Syndra
+  T1Zed playing champion Kalista
+  IamZevahc playing champion Thresh
+  SushiNChopstix playing champion Riven
+  BattlecastLulu playing champion Udyr
+WINNING TEAM
+  Dopy playing champion Graves
+  komimatt playing champion Brand
+  SRVaRiaX playing champion Lissandra
+  Diddydan playing champion Zac
+  Jrazo playing champion Blitzcrank
+EVENTS
+  @ 277230 BattlecastLulu [ SushiNChopstix ] killed SRVaRiaX
+  @ 432589 Dopy [ Jrazo ] killed T1Zed
+  @ 444272 SushiNChopstix [ T1Zed IamZevahc ] killed Dopy
+  @ 448804 minion killed SushiNChopstix
+  @ 519016 T1Zed [ IamZevahc ] killed Dopy
+  @ 654547 komimatt [ Diddydan ] killed iTcnRKaneki
+  @ 680930 SushiNChopstix killed SRVaRiaX
+  @ 682646 SRVaRiaX killed SushiNChopstix
+  @ 790329 SushiNChopstix [ T1Zed IamZevahc ] killed Dopy
+  @ 808594 Diddydan [ komimatt ] killed IamZevahc
+  @ 809341 T1Zed [ iTcnRKaneki IamZevahc SushiNChopstix ] killed komimatt
+  @ 900252 SRVaRiaX killed SushiNChopstix
+  @ 1000774 T1Zed [ IamZevahc BattlecastLulu ] killed Dopy
+  @ 1017760 SRVaRiaX killed SushiNChopstix
+  @ 1125742 Diddydan [ komimatt ] killed IamZevahc
+  @ 1134803 T1Zed [ iTcnRKaneki IamZevahc BattlecastLulu ] killed Diddydan
+  @ 1138289 iTcnRKaneki [ SushiNChopstix BattlecastLulu ] killed Jrazo
+  @ 1147059 komimatt [ Dopy Jrazo ] killed SushiNChopstix
+  @ 1159776 iTcnRKaneki [ T1Zed BattlecastLulu ] killed SRVaRiaX
+  @ 1161270 Dopy [ SRVaRiaX ] killed iTcnRKaneki
+  @ 1170225 Dopy killed T1Zed
+  @ 1282245 komimatt [ Dopy Diddydan ] killed T1Zed
+  @ 1456006 iTcnRKaneki [ IamZevahc ] killed SRVaRiaX
+  @ 1458335 T1Zed [ iTcnRKaneki IamZevahc SushiNChopstix ] killed Jrazo
+  @ 1471906 SushiNChopstix [ iTcnRKaneki BattlecastLulu ] killed komimatt
+  @ 1553809 iTcnRKaneki [ BattlecastLulu ] killed Dopy
+  @ 1555206 Jrazo [ Dopy komimatt SRVaRiaX ] killed iTcnRKaneki
+  @ 1572139 komimatt [ SRVaRiaX Jrazo ] killed BattlecastLulu
+  @ 1580369 Jrazo [ komimatt SRVaRiaX ] killed IamZevahc
+  @ 1580661 T1Zed [ IamZevahc BattlecastLulu ] killed Jrazo
+  @ 1660377 SRVaRiaX [ Dopy Jrazo ] killed T1Zed
+  @ 1693288 komimatt [ Dopy SRVaRiaX Jrazo ] killed IamZevahc
+  @ 1779148 komimatt [ Diddydan Jrazo ] killed T1Zed
+  @ 1917912 Jrazo [ Dopy SRVaRiaX Diddydan ] killed T1Zed
+  @ 1926265 komimatt [ Dopy SRVaRiaX Jrazo ] killed SushiNChopstix
+  @ 1932504 SRVaRiaX [ Dopy Diddydan Jrazo ] killed iTcnRKaneki
+  @ 2030878 Jrazo [ Dopy SRVaRiaX Diddydan ] killed IamZevahc
+  @ 2070661 Dopy [ komimatt SRVaRiaX Diddydan Jrazo ] killed BattlecastLulu
+  @ 2076137 Dopy [ komimatt SRVaRiaX Diddydan Jrazo ] killed T1Zed
+  @ 2084645 Dopy [ Jrazo ] killed iTcnRKaneki
+  @ 2086216 iTcnRKaneki killed Dopy
+  @ 2106520 SushiNChopstix killed SRVaRiaX
+  @ 2113868 Diddydan [ SRVaRiaX Jrazo ] killed SushiNChopstix
+  @ 2220887 SushiNChopstix [ iTcnRKaneki IamZevahc ] killed SRVaRiaX
+  @ 2234720 Dopy [ komimatt Jrazo ] killed iTcnRKaneki
+  @ 2313369 SRVaRiaX [ Dopy Diddydan ] killed iTcnRKaneki
+  @ 2314201 iTcnRKaneki killed SRVaRiaX
+  @ 2350926 Dopy [ komimatt Diddydan Jrazo ] killed SushiNChopstix
+  @ 2403299 Dopy [ komimatt Jrazo ] killed T1Zed
+  @ 2410278 Dopy [ komimatt SRVaRiaX Jrazo ] killed BattlecastLulu
+END
+
+MATCH ID 1778973594
+LOSING TEAM
+  Jovone playing champion Nasus
+  OMGLeiChen playing champion Graves
+  Indovaasion playing champion Fizz
+  Zraotic playing champion Warwick
+  Zyyke playing champion Taric
+WINNING TEAM
+  Stylether playing champion LeBlanc
+  alittlemido playing champion Thresh
+  squirT0T playing champion Amumu
+  KelloggsBRNFLKZ playing champion Sejuani
+  AntiToro playing champion Tristana
+EVENTS
+  @ 200249 squirT0T [ KelloggsBRNFLKZ ] killed Jovone
+  @ 202055 OMGLeiChen [ Zyyke ] killed alittlemido
+  @ 207264 OMGLeiChen [ Zyyke ] killed AntiToro
+  @ 262350 squirT0T [ alittlemido KelloggsBRNFLKZ ] killed Jovone
+  @ 360331 Indovaasion killed Stylether
+  @ 361133 Stylether killed Indovaasion
+  @ 456404 alittlemido [ Stylether squirT0T ] killed Indovaasion
+  @ 546162 Zraotic [ Jovone ] killed Stylether
+  @ 558856 squirT0T [ alittlemido KelloggsBRNFLKZ ] killed Zraotic
+  @ 592258 OMGLeiChen killed AntiToro
+  @ 648222 AntiToro [ Stylether ] killed Zyyke
+  @ 693663 squirT0T [ KelloggsBRNFLKZ ] killed Indovaasion
+  @ 809607 OMGLeiChen [ Zyyke ] killed Stylether
+  @ 850722 AntiToro [ KelloggsBRNFLKZ ] killed Indovaasion
+  @ 853415 OMGLeiChen [ Indovaasion Zyyke ] killed AntiToro
+  @ 866956 KelloggsBRNFLKZ [ alittlemido ] killed OMGLeiChen
+  @ 954492 Jovone [ OMGLeiChen Indovaasion Zyyke ] killed AntiToro
+  @ 1005356 Jovone [ OMGLeiChen Zyyke ] killed alittlemido
+  @ 1006396 KelloggsBRNFLKZ [ squirT0T ] killed OMGLeiChen
+  @ 1018965 Jovone [ OMGLeiChen Zraotic ] killed KelloggsBRNFLKZ
+  @ 1032329 AntiToro [ squirT0T KelloggsBRNFLKZ ] killed Jovone
+  @ 1034169 Stylether killed Zraotic
+  @ 1138456 KelloggsBRNFLKZ [ Stylether alittlemido ] killed Indovaasion
+  @ 1139337 Zraotic [ Indovaasion ] killed Stylether
+  @ 1150145 squirT0T [ AntiToro ] killed OMGLeiChen
+  @ 1253143 Indovaasion [ Jovone Zraotic Zyyke ] killed Stylether
+  @ 1257136 alittlemido [ Stylether squirT0T KelloggsBRNFLKZ AntiToro ] killed Indovaasion
+  @ 1259308 KelloggsBRNFLKZ [ squirT0T AntiToro ] killed Zyyke
+  @ 1261194 AntiToro [ alittlemido squirT0T KelloggsBRNFLKZ ] killed Zraotic
+  @ 1274318 alittlemido [ squirT0T KelloggsBRNFLKZ ] killed OMGLeiChen
+  @ 1274603 Jovone [ OMGLeiChen ] killed alittlemido
+  @ 1280181 squirT0T [ KelloggsBRNFLKZ AntiToro ] killed Jovone
+  @ 1393258 AntiToro [ alittlemido ] killed Indovaasion
+  @ 1402365 Jovone [ Zraotic Zyyke ] killed AntiToro
+  @ 1527014 Zraotic [ OMGLeiChen Indovaasion Zyyke ] killed Stylether
+  @ 1528576 Stylether killed OMGLeiChen
+  @ 1528802 KelloggsBRNFLKZ [ squirT0T ] killed Jovone
+  @ 1597816 KelloggsBRNFLKZ [ Stylether alittlemido squirT0T AntiToro ] killed OMGLeiChen
+  @ 1597816 KelloggsBRNFLKZ [ Stylether alittlemido squirT0T AntiToro ] killed Zyyke
+  @ 1598043 Stylether [ alittlemido squirT0T KelloggsBRNFLKZ ] killed Indovaasion
+  @ 1634873 Jovone [ Zraotic ] killed Stylether
+  @ 1641487 AntiToro [ Stylether KelloggsBRNFLKZ ] killed Zraotic
+  @ 1648539 Jovone [ Zraotic ] killed KelloggsBRNFLKZ
+  @ 1715828 KelloggsBRNFLKZ [ Stylether alittlemido squirT0T ] killed Zyyke
+  @ 1721518 Stylether [ alittlemido squirT0T KelloggsBRNFLKZ AntiToro ] killed Jovone
+  @ 1723212 OMGLeiChen [ Jovone Zyyke ] killed Stylether
+  @ 1729995 AntiToro [ alittlemido squirT0T KelloggsBRNFLKZ ] killed OMGLeiChen
+  @ 1730807 alittlemido killed Zraotic
+  @ 1903762 OMGLeiChen [ Zraotic Zyyke ] killed Stylether
+  @ 1922161 AntiToro [ alittlemido squirT0T ] killed Zraotic
+  @ 1940559 AntiToro [ alittlemido squirT0T KelloggsBRNFLKZ ] killed Jovone
+  @ 1947699 AntiToro [ alittlemido KelloggsBRNFLKZ ] killed OMGLeiChen
+  @ 1954516 alittlemido [ KelloggsBRNFLKZ AntiToro ] killed Zyyke
+  @ 2014389 Zraotic [ OMGLeiChen ] killed Stylether
+  @ 2027868 Indovaasion [ OMGLeiChen Zyyke ] killed squirT0T
+  @ 2094936 AntiToro [ alittlemido KelloggsBRNFLKZ ] killed Zraotic
+  @ 2106253 Stylether killed OMGLeiChen
+  @ 2123168 AntiToro [ KelloggsBRNFLKZ ] killed Zyyke
+  @ 2125563 Stylether [ alittlemido ] killed Indovaasion
+  @ 2186226 Stylether [ alittlemido squirT0T KelloggsBRNFLKZ ] killed Zraotic
+  @ 2196518 Stylether [ alittlemido squirT0T KelloggsBRNFLKZ AntiToro ] killed Jovone
+  @ 2198759 Indovaasion [ Jovone Zraotic Zyyke ] killed AntiToro
+  @ 2202993 KelloggsBRNFLKZ [ Stylether alittlemido squirT0T AntiToro ] killed Indovaasion
+  @ 2216604 minion killed Stylether
+  @ 2221350 OMGLeiChen killed alittlemido
+  @ 2231478 OMGLeiChen [ Zyyke ] killed KelloggsBRNFLKZ
+  @ 2283687 AntiToro killed OMGLeiChen
+  @ 2317601 Stylether [ alittlemido squirT0T KelloggsBRNFLKZ ] killed Zyyke
+  @ 2337238 KelloggsBRNFLKZ [ Stylether squirT0T ] killed Zraotic
+  @ 2356805 Indovaasion killed Stylether
+END

@@ -1,0 +1,21 @@
+PLAYER NAME           ASSISTS   KILLS     AKR   PLAYED WITH CHAMPION(S)
+ERAQAQAQAR                  0       5    0.00   Ezreal
+Bizu                        0       2    0.00   Sivir
+EzXin                       0       2    0.00   Maokai
+SauceShooter                0       2    0.00   Sion
+TheOneWhoHunts              0       2    0.00   XinZhao
+XianJin                     0       2    0.00   Zed
+Yoreo                       0       2    0.00   Sivir
+Hebs                        0       1    0.00   Fiddlesticks
+Ind0                        0       1    0.00   LeBlanc
+Massacre10                  0       1    0.00   Thresh
+AquaNova                    0       0    0.00   Ahri
+D0odleBob                   0       0    0.00   Nidalee
+DonMinator                  0       0    0.00   Vayne
+JaxintheBox                 0       0    0.00   Amumu
+JrBatman                    0       0    0.00   Heimerdinger
+LaKeA                       0       0    0.00   Blitzcrank
+RoofEooooH                  0       0    0.00   Fiddlesticks
+TSMBumbus                   0       0    0.00   Volibear
+ZeLLBaby                    0       0    0.00   Thresh
+guardianForceX              0       0    0.00   Malphite

@@ -1,0 +1,57 @@
+Begin ProvidedTests...
+chronological order
+  hound dog
+  poker face
+  brown eyed girl
+  let it be
+  walk like an egyptian
+  man in the mirror
+  stairway to heaven
+  dancing in the street
+  every breath you take
+  hotel california
+
+sorted order
+  brown eyed girl
+  dancing in the street
+  every breath you take
+  hotel california
+  hound dog
+  let it be
+  man in the mirror
+  poker face
+  stairway to heaven
+  walk like an egyptian
+
+random order
+  let it be
+  walk like an egyptian
+  stairway to heaven
+  poker face
+  brown eyed girl
+  hotel california
+  hound dog
+  dancing in the street
+  man in the mirror
+  every breath you take
+
+random order 2
+  every breath you take
+  brown eyed girl
+  hotel california
+  walk like an egyptian
+  let it be
+  dancing in the street
+  hound dog
+  stairway to heaven
+  man in the mirror
+  poker face
+
+erased: hound dog
+erased: stairway to heaven
+erased: every breath you take
+cleared the whole list!
+
+Finished ProvidedTests.
+Begin StudentTests...
+Finished StudentTests.

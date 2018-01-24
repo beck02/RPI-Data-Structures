@@ -1,0 +1,6 @@
+load spot.txt 2 ignore_punctuation
+print "jane"
+print "run"
+print "see"
+print "spot"
+quit

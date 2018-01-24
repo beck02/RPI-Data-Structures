@@ -1,0 +1,24 @@
+9 Polygon(s):  blue fuschia magenta olive orange pink tan teal yellow
+0 Triangle(s): 
+0 IsoscelesTriangle(s): 
+0 RightTriangle(s): 
+0 IsoscelesRightTriangle(s): 
+0 ObtuseTriangle(s): 
+0 IsoscelesObtuseTriangle(s): 
+0 EquilateralTriangle(s): 
+9 Quadrilateral(s):  blue fuschia magenta olive orange pink tan teal yellow
+6 Trapezoid(s):  blue magenta orange pink tan yellow
+3 Kite(s):  blue teal yellow
+1 Arrow(s):  fuschia
+4 Parallelogram(s):  blue magenta orange yellow
+3 IsoscelesTrapezoid(s):  blue orange pink
+2 Rhombus(s):  blue yellow
+2 Rectangle(s):  blue orange
+1 Square(s):  blue
+2 Shape(s) with all equal sides:  blue yellow
+2 Shape(s) with all equal angles:  blue orange
+3 Shape(s) with a right angle:  blue orange teal
+6 Shape(s) with an obtuse angle:  magenta olive pink tan teal yellow
+7 Shape(s) with an acute angle:  fuschia magenta olive pink tan teal yellow
+8 Convex Shape(s):  blue magenta olive orange pink tan teal yellow
+1 Concave Shape(s):  fuschia

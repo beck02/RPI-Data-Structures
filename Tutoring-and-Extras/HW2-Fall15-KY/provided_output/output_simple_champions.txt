@@ -1,0 +1,18 @@
+CHAMPION NAME           WINS  LOSSES    WIN%   MINION DEATHS
+Sivir                      2       0    1.00               0
+Thresh                     2       0    1.00               0
+Ahri                       1       0    1.00               0
+Amumu                      1       0    1.00               0
+Malphite                   1       0    1.00               0
+Maokai                     1       0    1.00               0
+Zed                        1       0    1.00               0
+Fiddlesticks               1       1    0.50               0
+Blitzcrank                 0       1    0.00               0
+Ezreal                     0       1    0.00               0
+Heimerdinger               0       1    0.00               0
+LeBlanc                    0       1    0.00               0
+Nidalee                    0       1    0.00               0
+Sion                       0       1    0.00               0
+Vayne                      0       1    0.00               0
+Volibear                   0       1    0.00               0
+XinZhao                    0       1    0.00               0

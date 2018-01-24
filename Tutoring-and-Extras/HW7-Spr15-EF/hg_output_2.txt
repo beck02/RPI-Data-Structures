@@ -1,0 +1,145 @@
+Loaded hansel_and_gretel.txt with window = 2 and parse method = ignore_punctuation
+
+could (5)
+could be (1)
+could get (1)
+could no (1)
+could not (2)
+
+not (26)
+not awake (1)
+not be (1)
+not been (2)
+not come (1)
+not cry (1)
+not distress (1)
+not do (1)
+not eat (1)
+not escape (1)
+not find (3)
+not forget (1)
+not forsake (1)
+not get (2)
+not help (1)
+not know (1)
+not known (1)
+not long (1)
+not see (1)
+not the (1)
+not wait (1)
+not your (2)
+
+find (6)
+find a (1)
+find it (1)
+find the (3)
+find their (1)
+
+the (181)
+the axe (1)
+the beasts (1)
+the best (1)
+the bolt (1)
+the boy (1)
+the bread (2)
+the brushwood (1)
+the cat (1)
+the cauldron (1)
+the children (9)
+the chimney (1)
+the chimneys (1)
+the conversation (1)
+the crumbs (2)
+the door (6)
+the dough (1)
+the duck (1)
+the end (1)
+the evening (1)
+the father (3)
+the fire (3)
+the first (1)
+the flames (1)
+the forest (16)
+the full (1)
+the girl (2)
+the godless (1)
+the good (2)
+the ground (2)
+the hand (2)
+the heart (1)
+the heavenborn (1)
+the hills (1)
+the house (2)
+the iron (1)
+the land (2)
+the last (1)
+the little (5)
+the man (3)
+the mans (1)
+the many (1)
+the middle (1)
+the moon (4)
+the morning (5)
+the mother (1)
+the next (1)
+the old (9)
+the other (1)
+the oven (4)
+the panes (1)
+the parlour (2)
+the path (1)
+the pebbles (2)
+the planks (1)
+the poor (3)
+the road (1)
+the roof (6)
+the room (1)
+the same (1)
+the stable (1)
+the strokes (1)
+the sun (1)
+the taste (1)
+the thickest (1)
+the time (1)
+the two (2)
+the water (2)
+the way (7)
+the white (2)
+the whole (3)
+the wicked (1)
+the wife (1)
+the wild (2)
+the wind (3)
+the window (2)
+the windows (1)
+the witch (1)
+the witchs (2)
+the woman (11)
+the wood (1)
+the woodaxe (1)
+the woods (1)
+
+could not find the forest
+
+could not find the forest and gretel began to the forest
+
+could no replied gretel came
+
+could not do come and
+
+could not get out your
+
+could be a good food
+
+could not find it was
+
+could not escape me the forest we will light a way
+
+could no one came creeping out but crabshells every morning before
+
+could not get out together in every morning till she crept
+
+could not wait a great dearth fell asleep he had done
+
+could not cry and see far better for thee theres never
+

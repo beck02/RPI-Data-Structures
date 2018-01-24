@@ -1,0 +1,66 @@
+Recipe for cake added
+Recipe for cookies added
+Recipe for quiche added
+Recipe for salad added
+13 ingredients added to kitchen
+In the kitchen:
+  2 units of spinach
+  2 units of sugar
+  3 units of cheese
+  3 units of lettuce
+  5 units of butter
+  5 units of tomatoes
+  6 units of buttermilk
+  6 units of chocolate
+  6 units of flour
+  12 units of eggs
+  20 units of vanilla
+  100 units of baking_powder
+  400 units of salt
+Recipes that can be prepared:
+  cake
+  cookies
+  quiche
+  salad
+Menu suggestion for dinner:
+  cake, quiche, and salad
+Made cake
+Made quiche
+Made salad
+In the kitchen:
+  1 unit of butter
+  1 unit of spinach
+  2 units of cheese
+  2 units of flour
+  2 units of lettuce
+  2 units of tomatoes
+  3 units of chocolate
+  4 units of buttermilk
+  5 units of eggs
+  18 units of vanilla
+  98 units of baking_powder
+  397 units of salt
+Cannot make cookies, need to buy:
+  1 unit of butter
+  1 unit of flour
+  1 unit of sugar
+Recipes that can be prepared:
+  quiche
+  salad
+Menu suggestion for dinner:
+  quiche
+Made quiche
+In the kitchen:
+  1 unit of butter
+  1 unit of cheese
+  1 unit of eggs
+  1 unit of tomatoes
+  2 units of flour
+  2 units of lettuce
+  3 units of chocolate
+  4 units of buttermilk
+  18 units of vanilla
+  98 units of baking_powder
+  395 units of salt
+No recipes can be prepared
+Nothing can be made for dinner

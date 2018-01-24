@@ -1,0 +1,19 @@
+CHAMPION NAME           WINS  LOSSES    WIN%   MINION DEATHS
+Amumu                      1       0    1.00               0
+Blitzcrank                 1       0    1.00               0
+Brand                      1       0    1.00               0
+LeBlanc                    1       0    1.00               1
+Lissandra                  1       0    1.00               0
+Sejuani                    1       0    1.00               0
+Tristana                   1       0    1.00               0
+Zac                        1       0    1.00               0
+Graves                     1       1    0.50               0
+Thresh                     1       1    0.50               0
+Fizz                       0       1    0.00               0
+Kalista                    0       1    0.00               0
+Nasus                      0       1    0.00               0
+Riven                      0       1    0.00               1
+Syndra                     0       1    0.00               0
+Taric                      0       1    0.00               0
+Udyr                       0       1    0.00               0
+Warwick                    0       1    0.00               0

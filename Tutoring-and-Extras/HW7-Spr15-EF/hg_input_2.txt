@@ -1,0 +1,23 @@
+load hansel_and_gretel.txt 2 ignore_punctuation
+
+print "could"
+print "not"
+print "find"
+print "the"
+
+generate "could" 4 most_common
+generate "could" 10 most_common
+
+generate "could" 4 random
+generate "could" 4 random
+generate "could" 4 random
+generate "could" 4 random
+generate "could" 4 random
+
+generate "could" 10 random
+generate "could" 10 random
+generate "could" 10 random
+generate "could" 10 random
+generate "could" 10 random
+
+quit

@@ -1,0 +1,82 @@
+r cookies
+2 butter
+1 sugar
+2 eggs
+2 vanilla
+3 flour
+1 salt
+0
+
+r salad 
+1 lettuce
+2 tomatoes
+0
+
+r quiche
+1 tomatoes
+4 eggs
+2 salt
+1 spinach
+1 cheese
+0
+
+r salad 
+1 lettuce
+2 tomatoes
+0
+
+a 
+12 eggs
+2 lettuce
+5 tomatoes
+400 salt
+16 sugar
+10 cheese
+4 spinach
+0
+
+k
+
+s
+
+p quiche
+m quiche
+p cheeseburger
+
+k
+
+s
+
+a 
+2 spinach
+0
+
+m cake
+m salad
+m cookies
+p cookies
+
+k 
+
+a 
+24 vanilla
+4 butter
+24 flour
+0
+
+k
+
+m cookies
+m quiche
+
+k
+
+m salad
+
+s
+
+m cookies
+
+k
+
+s

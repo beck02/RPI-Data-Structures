@@ -1,0 +1,20 @@
+T1001 0 available chainsaw
+Rental Customers: C0009 Snoop_Dawg (1) 
+Pending Customers: C0001 Jane_Doe (1) 
+
+T2001 0 available Roto_Hammer_1/2_inch
+Rental Customers: C0008 John_Snow (1) C0010 Yogi_Berra (1) 
+
+T2002 2 available Roto_Hammer_1_inch
+
+T2003 2 available Roto_Hammer_2_inch
+
+T3056 4 available Floor_Jack
+Rental Customers: C0010 Yogi_Berra (2) 
+
+T4008 1 available 10_foot_step_ladder
+
+T4010 1 available 14_foot_step_ladder
+
+T5010 1 available Submersible_Pump
+

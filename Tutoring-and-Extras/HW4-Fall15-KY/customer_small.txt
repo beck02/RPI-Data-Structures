@@ -1,0 +1,10 @@
+C0029 rent 0935 1 T1001 Emma_Watson
+C0010 rent 1000 1 T2001 Yogi_Berra
+C0010 rent 1001 2 T3056 Yogi_Berra
+C0012 rent 1015 1 T4010 Ahmed_Smith
+C0009 rent 1135 1 T1001 Snoop_Dawg
+C0012 return 1215 1 T4010 Ahmed_Smith
+C0001 rent 1235 1 T1001 Jane_Doe
+C0029 return 1535 1 T1001 Emma_Watson
+C0008 rent 1545 1 T2001 John_Snow
+      

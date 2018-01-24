@@ -1,0 +1,21 @@
+PLAYER NAME            ASSISTS   KILLS     AKR   PLAYED WITH CHAMPION(S)
+Zyyke                       14       0    14.00   Taric
+IamZevahc                   10       0    10.00   Thresh
+BattlecastLulu               7       1    7.00   Udyr
+alittlemido                 21       5    4.20   Thresh
+Jrazo                       16       4    4.00   Blitzcrank
+squirT0T                    21       6    3.50   Amumu
+Diddydan                    10       3    3.33   Zac
+KelloggsBRNFLKZ             22      10    2.20   Sejuani
+SRVaRiaX                    12       6    2.00   Lissandra
+Zraotic                      7       4    1.75   Warwick
+komimatt                    10       7    1.43   Brand
+Dopy                        10      10    1.00   Graves
+Stylether                   10      10    1.00   LeBlanc
+iTcnRKaneki                  5       6    0.83   Syndra
+Indovaasion                  4       5    0.80   Fizz
+OMGLeiChen                   7       9    0.78   Graves
+AntiToro                    10      13    0.77   Tristana
+SushiNChopstix               4       6    0.67   Riven
+Jovone                       4       7    0.57   Nasus
+T1Zed                        3       6    0.50   Kalista

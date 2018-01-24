@@ -1,0 +1,21 @@
+PLAYER NAME            KILLS  DEATHS     KDR   PLAYED WITH CHAMPION(S)
+ERAQAQAQAR                 5       1    5.00   Ezreal
+SauceShooter               2       0    2.00   Sion
+Yoreo                      2       0    2.00   Sivir
+XianJin                    2       1    2.00   Zed
+EzXin                      2       2    1.00   Maokai
+TheOneWhoHunts             2       2    1.00   XinZhao
+Hebs                       1       0    1.00   Fiddlesticks
+Massacre10                 1       0    1.00   Thresh
+Ind0                       1       1    1.00   LeBlanc
+Bizu                       2       3    0.67   Sivir
+AquaNova                   0       0    0.00   Ahri
+D0odleBob                  0       0    0.00   Nidalee
+JaxintheBox                0       0    0.00   Amumu
+JrBatman                   0       0    0.00   Heimerdinger
+guardianForceX             0       0    0.00   Malphite
+RoofEooooH                 0       1    0.00   Fiddlesticks
+TSMBumbus                  0       1    0.00   Volibear
+DonMinator                 0       2    0.00   Vayne
+LaKeA                      0       2    0.00   Blitzcrank
+ZeLLBaby                   0       4    0.00   Thresh

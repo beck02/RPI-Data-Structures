@@ -1,0 +1,21 @@
+PLAYER NAME            KILLS  DEATHS     KDR   PLAYED WITH CHAMPION(S)
+squirT0T                   6       1    6.00   Amumu
+komimatt                   7       2    3.50   Brand
+KelloggsBRNFLKZ           10       3    3.33   Sejuani
+Diddydan                   3       1    3.00   Zac
+AntiToro                  13       6    2.17   Tristana
+Dopy                      10       6    1.67   Graves
+Jrazo                      4       3    1.33   Blitzcrank
+alittlemido                5       4    1.25   Thresh
+OMGLeiChen                 9      10    0.90   Graves
+Jovone                     7       8    0.88   Nasus
+SRVaRiaX                   6       7    0.86   Lissandra
+iTcnRKaneki                6       7    0.86   Syndra
+Stylether                 10      12    0.83   LeBlanc
+SushiNChopstix             6       8    0.75   Riven
+T1Zed                      6       8    0.75   Kalista
+Indovaasion                5      10    0.50   Fizz
+Zraotic                    4       9    0.44   Warwick
+BattlecastLulu             1       3    0.33   Udyr
+IamZevahc                  0       5    0.00   Thresh
+Zyyke                      0       7    0.00   Taric
